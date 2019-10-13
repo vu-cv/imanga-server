@@ -13,7 +13,7 @@
       },
       "options": {
         "authenticationDatabase": "imanga-mobi",
-        "ssl": false
+        "ssl": true
       }
     }
   }
