@@ -6,6 +6,7 @@
   "scripts": {
     "develop": "strapi develop",
     "build": "strapi build",
+    "start": "strapi start",
     "strapi": "strapi",
     "lint": "eslint ."
   },
