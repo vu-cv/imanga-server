@@ -14,7 +14,7 @@
         "ssl": "${process.env.DATABASE_SSL || false}"
       },
       "options": {
-        "ssl": "${process.env.DATABASE_SSL || true}",
+        "ssl": "${process.env.DATABASE_SSL || false}",
         "authenticationDatabase": "${process.env.DATABASE_AUTHENTICATION_DATABASE || 'imanga-mobi'}"
       }
     }

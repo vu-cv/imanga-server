@@ -10,11 +10,11 @@
         "port": 31198,
         "username": "hehe",
         "password": "nFC2U_VbdU47cPE",
-        "ssl": true
+        "ssl": false
       },
       "options": {
         "authenticationDatabase": "imanga-mobi",
-        "ssl": true
+        "ssl": false
       }
     }
   }
