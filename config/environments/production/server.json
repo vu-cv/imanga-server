@@ -1,6 +1,6 @@
 {
   "host": "imanga-server.herokuapp.com",
-  "port": "80",
+  "port": "",
   "production": true,
   "proxy": {
     "enabled": false
