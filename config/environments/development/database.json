@@ -9,7 +9,8 @@
         "host": "ds331198.mlab.com",
         "port": 31198,
         "username": "hehe",
-        "password": "nFC2U_VbdU47cPE"
+        "password": "nFC2U_VbdU47cPE",
+        "ssl": true
       },
       "options": {
         "authenticationDatabase": "imanga-mobi",
