@@ -1,0 +1,57 @@
+{ 
+    "_id" : ObjectId("5d6405da338dba20f8b090bb"), 
+    "name" : "Posuka Demizu", 
+    "slug" : "posuka-demizu-2965", 
+    "createdAt" : ISODate("2019-08-26T16:16:26.056+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:47:38.780+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d6405da338dba20f8b090bb", 
+    "manga" : ObjectId("5d64174022e0d62513e1160b")
+}
+{ 
+    "_id" : ObjectId("5d6405f1338dba20f8b090bc"), 
+    "name" : "Kaiu Shirai", 
+    "slug" : "kaiu-shirai-2964", 
+    "createdAt" : ISODate("2019-08-26T16:16:49.977+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:47:38.780+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d6405f1338dba20f8b090bc", 
+    "manga" : ObjectId("5d64174022e0d62513e1160b")
+}
+{ 
+    "_id" : ObjectId("5d64184e614d0d25fc91ed9a"), 
+    "name" : "Đang Cập Nhật", 
+    "slug" : "dang-cap-nhat-239", 
+    "createdAt" : ISODate("2019-08-26T17:35:10.180+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:47:52.055+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d64184e614d0d25fc91ed9a", 
+    "manga" : ObjectId("5d6418af614d0d25fc91ed9b")
+}
+{ 
+    "_id" : ObjectId("5d641e9a041367286a9a89a3"), 
+    "name" : "Hata Ryosuke", 
+    "slug" : "hata-ryosuke-3313", 
+    "createdAt" : ISODate("2019-08-26T18:02:02.182+0000"), 
+    "updatedAt" : ISODate("2019-08-26T18:02:02.196+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d641e9a041367286a9a89a3"
+}
+{ 
+    "_id" : ObjectId("5d641f6c041367286a9a89aa"), 
+    "name" : "Sasaki Shounen", 
+    "slug" : "sasaki-shounen-2975", 
+    "createdAt" : ISODate("2019-08-26T18:05:32.822+0000"), 
+    "updatedAt" : ISODate("2019-08-26T18:05:32.828+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d641f6c041367286a9a89aa"
+}
+{ 
+    "_id" : ObjectId("5d650f7a03b7a11a22b6e454"), 
+    "name" : "Eiichiro Oda", 
+    "slug" : "eiichiro-oda-129", 
+    "createdAt" : ISODate("2019-08-27T11:09:47.001+0000"), 
+    "updatedAt" : ISODate("2019-08-27T11:09:47.011+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d650f7a03b7a11a22b6e454"
+}

@@ -1,0 +1,8 @@
+{ 
+    "_id" : ObjectId("5d64010840225f1d3e0fbb96"), 
+    "blocked" : false, 
+    "username" : "Administrator", 
+    "password" : "$2a$10$HQXR13ZTUZANy9JpUJDwGOCfy/lYy5qlSrY/60bd1m1vOXza2ueHe", 
+    "email" : "tnr.great@gmail.com", 
+    "__v" : NumberInt(0)
+}

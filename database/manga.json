@@ -1,0 +1,1109 @@
+{ 
+    "_id" : ObjectId("5d64174022e0d62513e1160b"), 
+    "name" : "The Promised Neverland", 
+    "slug" : "the-promised-neverland-2547", 
+    "desc" : "Emma và những người bạn sống một cuộc sống bình yên tại trại trẻ mồ côi nơi họ lớn lên. Dù quy định tại đây khá nghiêm ngặt nhưng người mẹ chăm sóc họ thực sự tốt bụng. Nhưng tại sao những đứa trẻ lạibị cấm rời khỏi nơi này...?", 
+    "createdAt" : ISODate("2019-08-26T17:30:40.756+0000"), 
+    "updatedAt" : ISODate("2019-08-27T16:12:33.890+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d64174022e0d62513e1160b", 
+    "status" : false, 
+    "surname" : "Yakusoku No Neverland ; Miền Đất Hứa ; Tận Cùng Của Sự Giả Dối", 
+    "translator" : ObjectId("5d6418e5614d0d25fc91ed9e"), 
+    "authors" : [
+        ObjectId("5d6405da338dba20f8b090bb"), 
+        ObjectId("5d6405f1338dba20f8b090bc")
+    ], 
+    "categories" : [
+        ObjectId("5d64061f338dba20f8b090bd"), 
+        ObjectId("5d6412328ccbcf23ff406347"), 
+        ObjectId("5d64128b8ccbcf23ff40634c"), 
+        ObjectId("5d6411618ccbcf23ff40633d"), 
+        ObjectId("5d6411998ccbcf23ff406340")
+    ], 
+    "is_hot" : false, 
+    "chapter" : ObjectId("5d655671bc85bc4cdaaad455")
+}
+{ 
+    "_id" : ObjectId("5d6418af614d0d25fc91ed9b"), 
+    "name" : "Konungar - Ác Chiến Vương Vị", 
+    "slug" : "konungar-ac-chien-vuong-vi-8015", 
+    "desc" : "Với những Viking, Centaur (ngưu nhân), Troll (cự quỷ), Berzerker (cuồng thi) - Konungar là một thiên huyền sử về cuộc tranh đoạt lãnh thổ với thù trong giặc ngoài đầy hỗn loạn và bi tráng thời trung cổ ở Bắc Âu. Ngôi báu của xứ Alstavik rồi sẽ thuộc về ai?", 
+    "createdAt" : ISODate("2019-08-26T17:36:47.833+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:54:17.924+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d6418af614d0d25fc91ed9b", 
+    "translator" : ObjectId("5d6418e5614d0d25fc91ed9e"), 
+    "author" : "5d64184e614d0d25fc91ed9a", 
+    "authors" : [
+        ObjectId("5d64184e614d0d25fc91ed9a")
+    ], 
+    "categories" : [
+        ObjectId("5d64064f33f9aa215aaabfa6"), 
+        ObjectId("5d640ed68ccbcf23ff40632e"), 
+        ObjectId("5d64128b8ccbcf23ff40634c"), 
+        ObjectId("5d6411618ccbcf23ff40633d"), 
+        ObjectId("5d640e4a8ccbcf23ff406327")
+    ], 
+    "status" : false, 
+    "is_hot" : false
+}
+{ 
+    "_id" : ObjectId("5d641953614d0d25fc91ed9f"), 
+    "name" : "Bất Bại Chân Ma", 
+    "slug" : "bat-bai-chan-ma-8003", 
+    "desc" : "Mook Hyang, Giáo chủ Nghịch Thánh Giáo và là một Bất Bại Chân Ma, đã bị kẻ thù (thuộc Huyết Ma Phái) đẩy sang một thế giới khác. Đây là câu chuyện về một thế giới kỳ bí, huyền ảo của yêu tinh, pháp sư, hiệp sĩ, và rồng; đồng thời cũng là chuyến hành trình tìm đường quay trở lại thế giới (Murim) cũ của Mook Hyang.", 
+    "createdAt" : ISODate("2019-08-26T17:39:31.393+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:55:30.274+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d641953614d0d25fc91ed9f", 
+    "translator" : ObjectId("5d6418e5614d0d25fc91ed9e"), 
+    "surname" : "Mookhyang ; Dark Lady", 
+    "author" : "5d64184e614d0d25fc91ed9a", 
+    "authors" : [
+        ObjectId("5d64184e614d0d25fc91ed9a")
+    ], 
+    "categories" : [
+        ObjectId("5d64064f33f9aa215aaabfa6"), 
+        ObjectId("5d64067b33f9aa215aaabfa8"), 
+        ObjectId("5d640ed68ccbcf23ff40632e"), 
+        ObjectId("5d6412328ccbcf23ff406347"), 
+        ObjectId("5d640eed8ccbcf23ff40632f"), 
+        ObjectId("5d64111b8ccbcf23ff406339"), 
+        ObjectId("5d6412d48ccbcf23ff406350"), 
+        ObjectId("5d6412c18ccbcf23ff40634f")
+    ], 
+    "status" : false, 
+    "is_hot" : false
+}
+{ 
+    "_id" : ObjectId("5d6419c7614d0d25fc91eda2"), 
+    "name" : "Monster Of Earth", 
+    "slug" : "monster-of-earth-8000", 
+    "desc" : "Một bộ one shot được lên ý tưởng từ ONE ,tác giả của bộ khá nổi tiếng One punch man ,truyện được vẽ bởi Murata ,ONE,Kinu.3 người cùng nhau tạo nên bộ truyệnNhân vật chính :Daichi ,cơ bản nội dung là chiến đấu vs quái vật .Nhưng không biết có lấn làn liên quan đến One punch man không", 
+    "createdAt" : ISODate("2019-08-26T17:41:27.475+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:56:13.643+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d6419c7614d0d25fc91eda2", 
+    "translator" : ObjectId("5d6418e5614d0d25fc91ed9e"), 
+    "authors" : [
+        ObjectId("5d64184e614d0d25fc91ed9a")
+    ], 
+    "categories" : [
+        ObjectId("5d64064f33f9aa215aaabfa6"), 
+        ObjectId("5d640e3c8ccbcf23ff406326")
+    ], 
+    "status" : false, 
+    "is_hot" : false
+}
+{ 
+    "_id" : ObjectId("5d641ee5041367286a9a89a4"), 
+    "authors" : [
+        ObjectId("5d641e9a041367286a9a89a3")
+    ], 
+    "categories" : [
+        ObjectId("5d64064f33f9aa215aaabfa6"), 
+        ObjectId("5d64067b33f9aa215aaabfa8"), 
+        ObjectId("5d640ed68ccbcf23ff40632e"), 
+        ObjectId("5d6411bf8ccbcf23ff406342"), 
+        ObjectId("5d6411ef8ccbcf23ff406345")
+    ], 
+    "name" : "Koryuu Nara Sude De Taosemasu Kedo, Kore Tte Joushiki Janai N Desu Ka?", 
+    "slug" : "koryuu-nara-sude-de-taosemasu-kedo-kore-tte-joushiki-janai-n-desu-ka-7527", 
+    "surname" : "Great Dragon Can Be Defeated With Bare Hands, But Isn't This A Common Sense? ; Koryuu Nara Sude De Taosemasu Kedo, Kore Tte Joushiki Janain Desu Ka?", 
+    "desc" : "Fil được nhặt và nuôi bởi vị [Đại Hiền Nhân], người đã cứu thế giới.Fil, người được nuôi dạy như cháu của Đại Hiền Nhân vĩ đại nhất, thừa thưởng tài năng của ngài ấy, cô bé có thể niệm ma thuật bá đạo, hạ rồng bằng tay không.Tuy nhiên, một ngày, vị Đại Hiền Nhân gọi cô ra và nói với cô rằng: \"Fil, xin lỗi vì đã giấu con suốt thời gian qua, nhưng con thật ra là [con gái].\"Thiệt luôn đó hả!? Ủa mà, con gái là gì vậy?Fil còn có kiến thức về con trai với con gái, Vị Đại Hiền Nhân cảm thấy lo lắng cho tương lai của cô, nên ngài ấy đã gửi cô vào học tại [Học viện Hoàng Gia].", 
+    "createdAt" : ISODate("2019-08-26T18:03:17.008+0000"), 
+    "updatedAt" : ISODate("2019-08-26T18:03:27.385+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d641ee5041367286a9a89a4", 
+    "translator" : ObjectId("5d6418e5614d0d25fc91ed9e"), 
+    "status" : false, 
+    "is_hot" : false
+}
+{ 
+    "_id" : ObjectId("5d641f5f041367286a9a89a7"), 
+    "authors" : [
+        ObjectId("5d641f6c041367286a9a89aa")
+    ], 
+    "categories" : [
+        ObjectId("5d64064f33f9aa215aaabfa6"), 
+        ObjectId("5d64061f338dba20f8b090bd"), 
+        ObjectId("5d6412328ccbcf23ff406347"), 
+        ObjectId("5d64128b8ccbcf23ff40634c"), 
+        ObjectId("5d6411618ccbcf23ff40633d"), 
+        ObjectId("5d6411de8ccbcf23ff406344")
+    ], 
+    "name" : "Fate/grand Order: Epic Of Remnant - Shinjuku", 
+    "slug" : "fategrand-order-epic-of-remnant-shinjuku-6755", 
+    "surname" : "Dị Điểm Á Chủng I ; Ma Cảnh Cô Lập Ác Tính Shinjuku ; Sự Kiện Huyễn Linh Shinjuku", 
+    "desc" : "Dị Điểm Á Chủng đầu tiên trong 4 Dị Điểm Á Chủng trong tác phẩm Fate/Grand Order, Shinjuku. Mở ra giai đoạn đầu tiên của một Chaldea \"không có Romani\", bắt đầu!", 
+    "createdAt" : ISODate("2019-08-26T18:05:19.949+0000"), 
+    "updatedAt" : ISODate("2019-08-26T18:05:49.179+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d641f5f041367286a9a89a7", 
+    "translator" : ObjectId("5d6418e5614d0d25fc91ed9e"), 
+    "status" : false, 
+    "is_hot" : false
+}
+{ 
+    "_id" : ObjectId("5d64207d041367286a9a89ab"), 
+    "authors" : [
+        ObjectId("5d64184e614d0d25fc91ed9a")
+    ], 
+    "categories" : [
+        ObjectId("5d64128b8ccbcf23ff40634c"), 
+        ObjectId("5d64111b8ccbcf23ff406339"), 
+        ObjectId("5d6412d48ccbcf23ff406350"), 
+        ObjectId("5d64066933f9aa215aaabfa7")
+    ], 
+    "name" : "Main tới shop 18+ tìm việc làm và thế là....anh bắt đầu cuộc hành trình tìm quả cu của chính mình.", 
+    "slug" : "dildo-link-6290", 
+    "desc" : "Main tới shop 18+ tìm việc làm và thế là....anh bắt đầu cuộc hành trình tìm quả cu của chính mình.", 
+    "status" : false, 
+    "createdAt" : ISODate("2019-08-26T18:10:05.037+0000"), 
+    "updatedAt" : ISODate("2019-08-26T18:10:05.043+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d64207d041367286a9a89ab", 
+    "translator" : ObjectId("5d6418e5614d0d25fc91ed9e"), 
+    "is_hot" : false
+}
+{ 
+    "_id" : ObjectId("5d6420e8041367286a9a89ae"), 
+    "authors" : [
+        ObjectId("5d64184e614d0d25fc91ed9a")
+    ], 
+    "categories" : [
+        ObjectId("5d6411048ccbcf23ff406338"), 
+        ObjectId("5d6411ab8ccbcf23ff406341")
+    ], 
+    "name" : "Ngày Nghỉ Của Mèo", 
+    "slug" : "ngay-nghi-cua-meo-1216", 
+    "desc" : "Truyện tranh Ngày Nghỉ Của Mèo được cập nhật nhất và đầy đủ nhất tại iManga.Mobi. Hãy ghé thăm TruyenQQ.Com mỗi ngày để được đọc các chương mới nhất của Ngày Nghỉ Của Mèo. ", 
+    "status" : false, 
+    "createdAt" : ISODate("2019-08-26T18:11:52.436+0000"), 
+    "updatedAt" : ISODate("2019-08-27T10:05:33.183+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d6420e8041367286a9a89ae", 
+    "translator" : ObjectId("5d6418e5614d0d25fc91ed9e"), 
+    "is_hot" : true
+}
+{ 
+    "_id" : ObjectId("5d642168041367286a9a89b1"), 
+    "authors" : [
+        ObjectId("5d64184e614d0d25fc91ed9a")
+    ], 
+    "categories" : [
+        ObjectId("5d64064f33f9aa215aaabfa6"), 
+        ObjectId("5d64067b33f9aa215aaabfa8"), 
+        ObjectId("5d640e3c8ccbcf23ff406326"), 
+        ObjectId("5d64061f338dba20f8b090bd"), 
+        ObjectId("5d640ed68ccbcf23ff40632e"), 
+        ObjectId("5d6412328ccbcf23ff406347"), 
+        ObjectId("5d64128b8ccbcf23ff40634c"), 
+        ObjectId("5d6411ab8ccbcf23ff406341"), 
+        ObjectId("5d6411618ccbcf23ff40633d"), 
+        ObjectId("5d64112b8ccbcf23ff40633a")
+    ], 
+    "name" : "Tsubasa World Chronicle", 
+    "slug" : "tsubasa-world-chronicle-1214", 
+    "desc" : "Chắc không cần phải giới thiệu nhiều đâu nhỉ ~~ đây là phần tiếp theo của bộ tsubasa reservoir chronicle - Huyền thoại đôi cánh nổi tiếng một thời !!! Mời các bạn xem và cảm nhận", 
+    "createdAt" : ISODate("2019-08-26T18:14:00.794+0000"), 
+    "updatedAt" : ISODate("2019-08-27T10:05:10.383+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d642168041367286a9a89b1", 
+    "translator" : ObjectId("5d6418e5614d0d25fc91ed9e"), 
+    "is_hot" : true, 
+    "status" : true
+}
+{ 
+    "_id" : ObjectId("5d6421b1041367286a9a89b4"), 
+    "authors" : [
+        ObjectId("5d64184e614d0d25fc91ed9a")
+    ], 
+    "categories" : [
+        ObjectId("5d6411ab8ccbcf23ff406341"), 
+        ObjectId("5d6411ef8ccbcf23ff406345")
+    ], 
+    "name" : "Miseinen Dakedo Kodomo Ja Nai", 
+    "slug" : "miseinen-dakedo-kodomo-ja-nai-1209", 
+    "desc" : "Oriyama Karin, 16 tuổi. Cô đang học trung học và... chuẩn bị kết hôn!", 
+    "createdAt" : ISODate("2019-08-26T18:15:13.288+0000"), 
+    "updatedAt" : ISODate("2019-08-26T18:15:13.293+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d6421b1041367286a9a89b4", 
+    "translator" : ObjectId("5d6418e5614d0d25fc91ed9e"), 
+    "status" : false, 
+    "is_hot" : false
+}
+{ 
+    "_id" : ObjectId("5d642214041367286a9a89b7"), 
+    "authors" : [
+        ObjectId("5d64184e614d0d25fc91ed9a")
+    ], 
+    "categories" : [
+        ObjectId("5d640e3c8ccbcf23ff406326"), 
+        ObjectId("5d64061f338dba20f8b090bd"), 
+        ObjectId("5d6412328ccbcf23ff406347"), 
+        ObjectId("5d6411ab8ccbcf23ff406341"), 
+        ObjectId("5d640eed8ccbcf23ff40632f")
+    ], 
+    "name" : "Toukaidou Hisame Kagerou", 
+    "slug" : "toukaidou-hisame-kagerou-1208", 
+    "desc" : " Truyện tranh Toukaidou Hisame Kagerou được cập nhật nhất và đầy đủ nhất tại iManga.Mobi. Hãy ghé thăm TruyenQQ.Com mỗi ngày để được đọc các chương mới nhất của Toukaidou Hisame Kagerou. ", 
+    "createdAt" : ISODate("2019-08-26T18:16:52.334+0000"), 
+    "updatedAt" : ISODate("2019-08-26T18:17:23.734+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d642214041367286a9a89b7", 
+    "translator" : ObjectId("5d6418e5614d0d25fc91ed9e"), 
+    "status" : false, 
+    "is_hot" : false
+}
+{ 
+    "_id" : ObjectId("5d6464bd041367286a9a89ba"), 
+    "authors" : [
+        ObjectId("5d64184e614d0d25fc91ed9a")
+    ], 
+    "categories" : [
+        ObjectId("5d64064f33f9aa215aaabfa6"), 
+        ObjectId("5d64067b33f9aa215aaabfa8"), 
+        ObjectId("5d6411ab8ccbcf23ff406341")
+    ], 
+    "name" : "Einstern 1904", 
+    "desc" : "Năm 1904, tại trung tâm thủ đô của Thụy Sĩ, Bern. Giáo sư kiêm thám tử tự xưng là thiên tài, Albert có thể phát hiện những chi tiết nhỏ nhất trong bất kỳ kịch bản và đi đến một kết luận hợp lý kể cả cái chết của những người lính Nga, gây ra bởi một bí thuật gia phương Đông là người Nhật Bản.Truyện theo dấu chân Albert tìm sự thật trong bí ẩn này mà vượt qua ranh giới giữa các quốc gia và tưởng tượng", 
+    "slug" : "einstern-1904-1206", 
+    "createdAt" : ISODate("2019-08-26T23:01:17.599+0000"), 
+    "updatedAt" : ISODate("2019-08-26T23:01:17.606+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d6464bd041367286a9a89ba", 
+    "translator" : ObjectId("5d6418e5614d0d25fc91ed9e"), 
+    "status" : false, 
+    "is_hot" : false
+}
+{ 
+    "_id" : ObjectId("5d646521041367286a9a89bd"), 
+    "authors" : [
+        ObjectId("5d64184e614d0d25fc91ed9a")
+    ], 
+    "categories" : [
+        ObjectId("5d64064f33f9aa215aaabfa6"), 
+        ObjectId("5d64067b33f9aa215aaabfa8"), 
+        ObjectId("5d64061f338dba20f8b090bd"), 
+        ObjectId("5d640ed68ccbcf23ff40632e"), 
+        ObjectId("5d6411048ccbcf23ff406338")
+    ], 
+    "name" : "Vô Cực Kiếm Thần", 
+    "slug" : "vo-cuc-kiem-than-1205", 
+    "desc" : "Thiên Vũ đại lục, Tông môn san sát, mạnh được yếu thua, kẻ phù hợp mới có thể sinh tồn, vì cứu người thân, Tô Vân một ý nghĩ thành Ma, ngẫu nhiên lấy được nghịch thiên hộp đựng kiếm, tập được Kinh Thế Kiếm Quyết, một cái do mười vạn tám ngàn thanh Tiên kiếm trấn áp thần bí kiếm, đúc ra một đoạn bất hủ Kiếm Thần truyền thuyết!", 
+    "createdAt" : ISODate("2019-08-26T23:02:57.729+0000"), 
+    "updatedAt" : ISODate("2019-08-26T23:02:57.735+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d646521041367286a9a89bd", 
+    "translator" : ObjectId("5d6418e5614d0d25fc91ed9e"), 
+    "status" : false, 
+    "is_hot" : false
+}
+{ 
+    "_id" : ObjectId("5d64659e041367286a9a89c0"), 
+    "authors" : [
+        ObjectId("5d64184e614d0d25fc91ed9a")
+    ], 
+    "categories" : [
+        ObjectId("5d6411bf8ccbcf23ff406342"), 
+        ObjectId("5d6411ef8ccbcf23ff406345"), 
+        ObjectId("5d6411618ccbcf23ff40633d")
+    ], 
+    "name" : " Tokyo 7Th Sisters 4-Koma Tokyo 7Th Sisters 4-Koma", 
+    "slug" : "tokyo-7th-sisters-4-koma-1204", 
+    "desc" : "Vào năm 2032, một nhóm idol huyền thoại \"7th Sisters\" bỗng tan rã và biến mất. Đó được coi như là dấu chấm của ngành idol.... Cho đến tận 2 năm sau, một thanh niên trẻ lên lãnh đạo thế hệ idol mới của studio \"777 (Three Seven)\" hay còn được gọi là Nanastar. Nhưng mọi người đều cho rằng idol chỉ là quá khứ... Bỗng một ngày, một cô Manager xinh đẹp, huyền bí (và hay nhoi) xuất hiện và nói rằng: \"Nếu idol chỉ là quá khứ thì hãy tạo ra idol của tương lai. Nhiều \"Sisters\" liên kết bằng một niềm đam mê, bằng một sự đoàn kết mạnh mẽ\". Và sau đây là câu chuyện hằng ngày của họ. Đây chỉ là 4-koma ngắn nói về những việc làm hàng ngày chứ không phải theo đúng cốt truyện trong game", 
+    "createdAt" : ISODate("2019-08-26T23:05:02.627+0000"), 
+    "updatedAt" : ISODate("2019-08-26T23:05:02.634+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d64659e041367286a9a89c0", 
+    "translator" : ObjectId("5d6418e5614d0d25fc91ed9e"), 
+    "status" : false, 
+    "is_hot" : false
+}
+{ 
+    "_id" : ObjectId("5d6465ef041367286a9a89c3"), 
+    "authors" : [
+        ObjectId("5d64184e614d0d25fc91ed9a")
+    ], 
+    "categories" : [
+        ObjectId("5d640ed68ccbcf23ff40632e"), 
+        ObjectId("5d64112b8ccbcf23ff40633a"), 
+        ObjectId("5d6411cf8ccbcf23ff406343")
+    ], 
+    "name" : "Mauri To Ryuu", 
+    "slug" : "mauri-to-ryuu-1203", 
+    "desc" : "Một cậu bé loài người vì cứu dân làng mà hiến thân cho rồng thần. Một vị long thần cô độc ngàn năm luôn mong chờ tri kỷ của mình xuất hiện. Dịu dàng và đáng yêu.", 
+    "createdAt" : ISODate("2019-08-26T23:06:23.184+0000"), 
+    "updatedAt" : ISODate("2019-08-26T23:06:23.190+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d6465ef041367286a9a89c3", 
+    "translator" : ObjectId("5d6418e5614d0d25fc91ed9e"), 
+    "status" : false, 
+    "is_hot" : false
+}
+{ 
+    "_id" : ObjectId("5d646650041367286a9a89c6"), 
+    "authors" : [
+        ObjectId("5d64184e614d0d25fc91ed9a")
+    ], 
+    "categories" : [
+        ObjectId("5d64064f33f9aa215aaabfa6"), 
+        ObjectId("5d6410828ccbcf23ff406332")
+    ], 
+    "name" : "Zombie Hunter", 
+    "slug" : "zombie-hunter-1202", 
+    "desc" : "Loài người đang bị đe dọa bởi 1 loại sinh vật ngoài trái đất. 1 tay đua trẻ tên Toshio đã dành chiến thắng bởi 1 tổ chức bí ẩn để tham dự 1 cuộc kiểm tra với giải thưởng là tiền mặt. Tuy nhiên cuộc kiểm tra đãbiến thành 1 chương trình huấn luyện tàn khốc để trở thành 1 zombie hunter. Tuy nhiên, Toshio mong trở lại cuộc sống bình thường nhưng anh sớm phải đối mặt với những lý giải và bọn zombie...", 
+    "status" : true, 
+    "createdAt" : ISODate("2019-08-26T23:08:00.067+0000"), 
+    "updatedAt" : ISODate("2019-08-27T10:06:06.506+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d646650041367286a9a89c6", 
+    "translator" : ObjectId("5d6418e5614d0d25fc91ed9e"), 
+    "is_hot" : true
+}
+{ 
+    "_id" : ObjectId("5d6466ad041367286a9a89c9"), 
+    "authors" : [
+        ObjectId("5d64184e614d0d25fc91ed9a")
+    ], 
+    "categories" : [
+        ObjectId("5d640e3c8ccbcf23ff406326"), 
+        ObjectId("5d6412558ccbcf23ff406349")
+    ], 
+    "name" : "Puchi Collection", 
+    "desc" : "Bộ truyện dựa trên trò chơi Kantai Collection!, mỗi chap chuyện kể về các sinh vật bí ẩn mang tên puchi và cuộc sống thường ngày của chúng cùng với các nữ hạm.", 
+    "slug" : "puchi-collection-1201", 
+    "createdAt" : ISODate("2019-08-26T23:09:33.406+0000"), 
+    "updatedAt" : ISODate("2019-08-26T23:09:33.412+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d6466ad041367286a9a89c9", 
+    "translator" : ObjectId("5d6418e5614d0d25fc91ed9e"), 
+    "status" : false, 
+    "is_hot" : false
+}
+{ 
+    "_id" : ObjectId("5d646701041367286a9a89cc"), 
+    "authors" : [
+        ObjectId("5d64184e614d0d25fc91ed9a")
+    ], 
+    "categories" : [
+        ObjectId("5d640e3c8ccbcf23ff406326"), 
+        ObjectId("5d6411bf8ccbcf23ff406342")
+    ], 
+    "name" : "Girls The Wilds", 
+    "slug" : "girls-the-wilds-1195", 
+    "desc" : "Vì hoàn cảnh khó khăn, Song Jae Gu được thầy hiệu trưởng mời đến học 1 trường cấp 3 của ông. Tưởng chừng như măn mắn đã đến với anh, nhưng hóa ra đây là 1 trường nữ sinh . Ngay ngày đi học đầu tiên anh đã có 1 tai nạn ngoài ý muốn với queen người có thế lực nhất ở trường. Liệu anh chàng có thể \"sống sót\"để tốt nghiệp ra khỏi trường hay không.", 
+    "status" : true, 
+    "surname" : "Girl The Wild ; Girls Of The Wild's ; Nữ Sinh Trường Học Wilds", 
+    "createdAt" : ISODate("2019-08-26T23:10:57.320+0000"), 
+    "updatedAt" : ISODate("2019-08-27T10:06:24.287+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d646701041367286a9a89cc", 
+    "translator" : ObjectId("5d6418e5614d0d25fc91ed9e"), 
+    "is_hot" : true
+}
+{ 
+    "_id" : ObjectId("5d646779041367286a9a89cf"), 
+    "authors" : [
+        ObjectId("5d64184e614d0d25fc91ed9a")
+    ], 
+    "categories" : [
+        ObjectId("5d6411048ccbcf23ff406338"), 
+        ObjectId("5d6411ab8ccbcf23ff406341")
+    ], 
+    "name" : "Phong Khởi Thương Lam Ngoại Truyện", 
+    "slug" : "phong-khoi-thuong-lam-ngoai-truyen-1192", 
+    "desc" : " Truyện tranh Phong Khởi Thương Lam Ngoại Truyện được cập nhật nhất và đầy đủ nhất tại iManga.Mobi. Hãy ghé thăm iManga.Mobi mỗi ngày để được đọc các chương mới nhất của Phong Khởi Thương Lam Ngoại Truyện. ", 
+    "createdAt" : ISODate("2019-08-26T23:12:57.491+0000"), 
+    "updatedAt" : ISODate("2019-08-27T10:07:01.377+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d646779041367286a9a89cf", 
+    "translator" : ObjectId("5d6418e5614d0d25fc91ed9e"), 
+    "is_hot" : true, 
+    "status" : true
+}
+{ 
+    "_id" : ObjectId("5d6467dc041367286a9a89d2"), 
+    "authors" : [
+        ObjectId("5d64184e614d0d25fc91ed9a")
+    ], 
+    "categories" : [
+        ObjectId("5d64064f33f9aa215aaabfa6"), 
+        ObjectId("5d64067b33f9aa215aaabfa8"), 
+        ObjectId("5d6411998ccbcf23ff406340"), 
+        ObjectId("5d6410828ccbcf23ff406332"), 
+        ObjectId("5d640e4a8ccbcf23ff406327")
+    ], 
+    "name" : "Hậu Dấu Ấn Rồng Thiêng", 
+    "slug" : "hau-dau-an-rong-thieng-1186", 
+    "desc" : "Câu truyện kể về thời kì đen tối dưới sự cai trị của ma quỷ, Vandel( tạm dịch là Hiệp sĩ ) là người có thể chống lại quái vật. Busters Vandel là một nhóm của những người săn tìm những ma quỷ và trong số đó nhóm Zenon dược biết đến là busters mạnh nhất. Cậu bé Beet có giấc mơ gia nhập nhóm Zenon. Tuy nhiên vào một ngày định mệnh nhóm Busters Vandel bị đánh bại bởi quỷ Berut. Năm busters hi sinh cuộc sống của họ để tạo nên sức mạnh cho năm vũ khí rồi chao nó lại cho Beet. Nhiều năm trôi qua, chú bé Beet bắt đầu cuộc phưu lưu của mình để thực hiện ý muốn của nhóm Zenon. Chấm dứt thời kỳ đen tối....", 
+    "createdAt" : ISODate("2019-08-26T23:14:36.987+0000"), 
+    "updatedAt" : ISODate("2019-08-26T23:14:36.991+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d6467dc041367286a9a89d2", 
+    "translator" : ObjectId("5d6418e5614d0d25fc91ed9e"), 
+    "status" : false, 
+    "is_hot" : false
+}
+{ 
+    "_id" : ObjectId("5d646915041367286a9a89d5"), 
+    "authors" : [
+        ObjectId("5d64184e614d0d25fc91ed9a")
+    ], 
+    "categories" : [
+        ObjectId("5d64064f33f9aa215aaabfa6"), 
+        ObjectId("5d640e3c8ccbcf23ff406326"), 
+        ObjectId("5d6412328ccbcf23ff406347"), 
+        ObjectId("5d6412d48ccbcf23ff406350")
+    ], 
+    "name" : "6 Weapons", 
+    "desc" : "Ấy chà chà, chúng ta có gì đây, à là những con não phẳng và một thằng main phản gió đỉnh cao nhé. đón xem tại 6 weapons.", 
+    "slug" : "6-weapons-1182", 
+    "createdAt" : ISODate("2019-08-26T23:19:49.705+0000"), 
+    "updatedAt" : ISODate("2019-08-27T10:04:43.764+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d646915041367286a9a89d5", 
+    "translator" : ObjectId("5d6418e5614d0d25fc91ed9e"), 
+    "is_hot" : true, 
+    "status" : true
+}
+{ 
+    "_id" : ObjectId("5d64fb804666110cb4300ba6"), 
+    "authors" : [
+        ObjectId("5d64184e614d0d25fc91ed9a")
+    ], 
+    "categories" : [
+        ObjectId("5d64128b8ccbcf23ff40634c"), 
+        ObjectId("5d6411ab8ccbcf23ff406341")
+    ], 
+    "name" : "Diabolik Lovers More, Blood Prequel & Sequel", 
+    "slug" : "diabolik-lovers-more-blood-prequel-sequel-1175", 
+    "desc" : " Truyện tranh Diabolik Lovers More, Blood Prequel & Sequel được cập nhật nhất và đầy đủ nhất tại TruyenQQ.Com. Hãy ghé thăm iManga.Mobi mỗi ngày để được đọc các chương mới nhất của Diabolik Lovers More, Blood Prequel & Sequel. ", 
+    "status" : false, 
+    "createdAt" : ISODate("2019-08-27T09:44:32.081+0000"), 
+    "updatedAt" : ISODate("2019-08-27T10:07:43.017+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d64fb804666110cb4300ba6", 
+    "translator" : ObjectId("5d6418e5614d0d25fc91ed9e"), 
+    "is_hot" : true
+}
+{ 
+    "_id" : ObjectId("5d64fbe84666110cb4300ba9"), 
+    "authors" : [
+        ObjectId("5d64184e614d0d25fc91ed9a")
+    ], 
+    "categories" : [
+        ObjectId("5d64064f33f9aa215aaabfa6"), 
+        ObjectId("5d64067b33f9aa215aaabfa8")
+    ], 
+    "status" : false, 
+    "name" : "Ichigekiken Oshima Yasuichi", 
+    "slug" : "chigekiken-oshima-yasuichi-1168", 
+    "desc" : "Người kế thừa Đại Lâm Tự quyền pháp, Sakamoto Ichigeki đã trở lại. Rời khỏi Học viện Đại Lâm Tự, trở lại cố hương sau 3 năm, Ichigeki vì cứu một cô gái khỏi tay một băng nhóm đua xe mà vướng vào cuộc ẩu đả với băng nhóm đó. Kẻ đứng đầu băng nhóm đối đầu với Ichigeki, Saimon Ryo vốn là một quyền pháp gia Đại Lâm Tự Nam quyền, đã từng là bang chủ học xá Nam Đại Lâm Tự.", 
+    "createdAt" : ISODate("2019-08-27T09:46:16.144+0000"), 
+    "updatedAt" : ISODate("2019-08-27T09:46:16.149+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d64fbe84666110cb4300ba9", 
+    "translator" : ObjectId("5d6418e5614d0d25fc91ed9e"), 
+    "is_hot" : false
+}
+{ 
+    "_id" : ObjectId("5d64fc234666110cb4300bac"), 
+    "authors" : [
+        ObjectId("5d64184e614d0d25fc91ed9a")
+    ], 
+    "categories" : [
+        ObjectId("5d64067b33f9aa215aaabfa8"), 
+        ObjectId("5d640e3c8ccbcf23ff406326")
+    ], 
+    "name" : "Cậu Bé Quả Đào - Hoozuki No Reitetsu", 
+    "slug" : "cau-be-qua-dao-hoozuki-no-reitetsu-1155", 
+    "desc" : "Ngày xửa ngày xưa, có một cặp vợ chồng đã lớn tuổi mà mãi chưa có con. Ngày ngày, người chồng lên núi nhặt củi còn người vợ giặt giũ ở bờ song. Một ngày, một quả đào khổng lồ theo dòng nước chảy tới chỗ bà đang giặt áo. Người vợ liền mang quả đào về nhà và đợi chồng về cùng ăn. Nhưng khi họ bổ quả đào, một cậu bé chui ra và họ đặt tên cậu là Momotaro. Khi lớn lên, Momotaro trở thành cậu bé khỏe nhất trong làng và cậu quyết tâm đi tới Onigashima (Đảo Quỷ) để đánh đuổi những con quỷ ở đó. Cha mẹ Momotaro liền chuẩn bị cho cậu một ít lương thực và tiễn cậu lên đường. Khi ra khỏi làng, Momotaro gặp một chú chó, chú chó hỏi cậu đi đâu và cậu mang gì trong túi thế. Momotaro đáp : “Tôi đang mang những chiếc bánh bao ngon nhất Nhật Bản này, tôi sẽ cho bạn một chiếc nếu bạn giúp tôi đánh đuổi lũ quỷ”. Và chú chó đồng ý trở thành bạn đồng hành của Momotaro. Sau đó cậu bé cũng thu nạp được thêm hai bạn đồng hành nữa là một chú khỉ và một chú chim trĩ cũng bằng lời hứa về những chiếc bánh bao kia. Khi nhóm của Momotaro đặt chân lên Onigashima, bọn quỷ đang ở giữa một bữa tiệc. “Bọn ta tới để trừng phạt các ngươi vì dám quấy nhiễu dân làng” – Momotaro hét lớn trước khi hạ gục một con quỷ say và đồng bọn của nó. Con quỷ chúa bị áp đảo và phải xin Momotaro tha mạng cho, nó hứa từ nay về sau sẽ không bao giờ quấy phá dân làng nữa.", 
+    "status" : false, 
+    "createdAt" : ISODate("2019-08-27T09:47:15.986+0000"), 
+    "updatedAt" : ISODate("2019-08-27T09:47:15.994+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d64fc234666110cb4300bac", 
+    "translator" : ObjectId("5d6418e5614d0d25fc91ed9e"), 
+    "is_hot" : false
+}
+{ 
+    "_id" : ObjectId("5d64fc5d4666110cb4300baf"), 
+    "authors" : [
+        ObjectId("5d64184e614d0d25fc91ed9a")
+    ], 
+    "categories" : [
+        ObjectId("5d64064f33f9aa215aaabfa6"), 
+        ObjectId("5d64067b33f9aa215aaabfa8"), 
+        ObjectId("5d6410828ccbcf23ff406332")
+    ], 
+    "name" : "The Last Of Us", 
+    "desc" : "Những tài liệu họa bản từ tựa game lẫn comic mới nổi: The Last Of Us, được chia làm 5 phần, sau khi hoàn tất sẽ có link down cho những ai thích sưu tập. Đây là tác phẩm mở đầu cho thể loại Họa Tác (tài liệu họa bản) - một thể loại ngoài việc thể hiện rõ rệt tính chất \"nhìn hình giải trí\" của truyện tranh, thì đồng thời cũng cung cấp những mảng kiến thức phụ cận cho những ai có hứng thú với ngành đồ họa 2D, 3D và vẽ tranh ảnh, ngoài ra, đây cũng là thể loại cung cấp những hình ảnh poster đẹp với chất lượng ổn cho những ai thích sưu tầm", 
+    "slug" : "the-last-of-us-1144", 
+    "status" : false, 
+    "createdAt" : ISODate("2019-08-27T09:48:13.798+0000"), 
+    "updatedAt" : ISODate("2019-08-27T09:48:13.804+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d64fc5d4666110cb4300baf", 
+    "translator" : ObjectId("5d6418e5614d0d25fc91ed9e"), 
+    "is_hot" : false
+}
+{ 
+    "_id" : ObjectId("5d64fcb44666110cb4300bb2"), 
+    "authors" : [
+        ObjectId("5d64184e614d0d25fc91ed9a")
+    ], 
+    "categories" : [
+        ObjectId("5d640ed68ccbcf23ff40632e"), 
+        ObjectId("5d64128b8ccbcf23ff40634c"), 
+        ObjectId("5d6411bf8ccbcf23ff406342"), 
+        ObjectId("5d6411618ccbcf23ff40633d"), 
+        ObjectId("5d640f138ccbcf23ff406331"), 
+        ObjectId("5d6410c58ccbcf23ff406335")
+    ], 
+    "name" : "Makai Ouji: Devils And Realist", 
+    "desc" : "William Twining may mắn có được sự thông minh và tiền tài. Cậu ấy đi học ở một trường học có uy tín, sống ở một biệt thự rộng lớn với chú và quản gia. Nhưng khi sự nghiệp của chú cậu sụp đổ, nhà Twining đã bị phá sản. Khi đang ở trong nhà kho tìm đồ để bán lấy tiền, William tình cờ biết được căn phòng bí mật. Căn phòng này chứa một phong ấn ma thuật mà William vô tình triệu hồi một con quỷ. Con quỷ này, Dantalion, đã nói với William rằng anh là người duy nhất có quyền chọn “người cai trị thế” của thế giới quỷ! Và rồi, lẽ đương nhiên là những người muốn ngai vàng cứ bám theo William – một cậu nhóc khó chịu và vô cùng ‘nai’.", 
+    "slug" : "makai-ouji-devils-and-realist-1143", 
+    "status" : false, 
+    "createdAt" : ISODate("2019-08-27T09:49:40.688+0000"), 
+    "updatedAt" : ISODate("2019-08-27T09:49:40.696+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d64fcb44666110cb4300bb2", 
+    "translator" : ObjectId("5d6418e5614d0d25fc91ed9e"), 
+    "is_hot" : false
+}
+{ 
+    "_id" : ObjectId("5d64fcfb4666110cb4300bb5"), 
+    "authors" : [
+        ObjectId("5d64184e614d0d25fc91ed9a")
+    ], 
+    "categories" : [
+        ObjectId("5d64064f33f9aa215aaabfa6"), 
+        ObjectId("5d64067b33f9aa215aaabfa8"), 
+        ObjectId("5d6411048ccbcf23ff406338")
+    ], 
+    "name" : "Zombie Knight", 
+    "slug" : "zombie-knight-1142", 
+    "desc" : "Một thánh kỵ sĩ bị biến thành nửa người nửa zombie và hành trình đi tìm suối thần để trở lại làm người.", 
+    "status" : false, 
+    "createdAt" : ISODate("2019-08-27T09:50:51.943+0000"), 
+    "updatedAt" : ISODate("2019-08-27T09:50:51.948+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d64fcfb4666110cb4300bb5", 
+    "translator" : ObjectId("5d6418e5614d0d25fc91ed9e"), 
+    "is_hot" : false
+}
+{ 
+    "_id" : ObjectId("5d64fd484666110cb4300bb8"), 
+    "authors" : [
+        ObjectId("5d64184e614d0d25fc91ed9a")
+    ], 
+    "categories" : [
+        ObjectId("5d640e3c8ccbcf23ff406326")
+    ], 
+    "name" : "Kyoaku Gakuen", 
+    "slug" : "kyoaku-gakuen-1140", 
+    "desc" : " Truyện tranh Kyoaku Gakuen được cập nhật nhất và đầy đủ nhất tại iManga.Mobi. Hãy ghé thăm iManga.Mobi mỗi ngày để được đọc các chương mới nhất của Kyoaku Gakuen. ", 
+    "status" : false, 
+    "createdAt" : ISODate("2019-08-27T09:52:08.884+0000"), 
+    "updatedAt" : ISODate("2019-08-27T09:52:08.891+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d64fd484666110cb4300bb8", 
+    "translator" : ObjectId("5d6418e5614d0d25fc91ed9e"), 
+    "is_hot" : false
+}
+{ 
+    "_id" : ObjectId("5d64fd8c4666110cb4300bbb"), 
+    "authors" : [
+        ObjectId("5d64184e614d0d25fc91ed9a")
+    ], 
+    "categories" : [
+        ObjectId("5d6412328ccbcf23ff406347"), 
+        ObjectId("5d6411ab8ccbcf23ff406341"), 
+        ObjectId("5d6411bf8ccbcf23ff406342")
+    ], 
+    "name" : "Kanojo Ga Flag O Oraretara", 
+    "slug" : "kanojo-ga-flag-o-oraretara-1139", 
+    "desc" : "Chuyển thể từ Light novel cùng tên (Nhiều bạn tưởng đây là hàng chuyển từ manga nên mình nói trước để khỏi thắc mắc này nọ) Đại để là: anh main, Hatase Sota, người có khả năng thấy các \"Flag\" trên đầu người khác, và cậu có thể dựa vào chúng để làm thay đổi nhiều thứ, thậm chí là số mệnh của họ. Cậu được chuyển tới Học viện Hatagaya, và cũng nhờ cái khả năng này mà cậu đã sở hữu một dàn harem đủ mọi thể loại.", 
+    "status" : false, 
+    "createdAt" : ISODate("2019-08-27T09:53:16.714+0000"), 
+    "updatedAt" : ISODate("2019-08-27T09:53:16.721+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d64fd8c4666110cb4300bbb", 
+    "translator" : ObjectId("5d6418e5614d0d25fc91ed9e"), 
+    "is_hot" : false
+}
+{ 
+    "_id" : ObjectId("5d64fde64666110cb4300bbe"), 
+    "authors" : [
+        ObjectId("5d64184e614d0d25fc91ed9a")
+    ], 
+    "categories" : [
+        ObjectId("5d640e3c8ccbcf23ff406326"), 
+        ObjectId("5d64128b8ccbcf23ff40634c"), 
+        ObjectId("5d64111b8ccbcf23ff406339"), 
+        ObjectId("5d6412d48ccbcf23ff406350")
+    ], 
+    "name" : "Ngôi Trường Ma Ám", 
+    "slug" : "ngoi-truong-ma-am-1137", 
+    "desc" : "Câu chuyện về đêm ở một trường học với các học sinh bá đạo có thể điều khiển linh hồn!", 
+    "status" : false, 
+    "surname" : "Haunted School", 
+    "createdAt" : ISODate("2019-08-27T09:54:46.980+0000"), 
+    "updatedAt" : ISODate("2019-08-27T09:54:46.991+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d64fde64666110cb4300bbe", 
+    "translator" : ObjectId("5d6418e5614d0d25fc91ed9e"), 
+    "is_hot" : false
+}
+{ 
+    "_id" : ObjectId("5d64fe734666110cb4300bc1"), 
+    "authors" : [
+        ObjectId("5d64184e614d0d25fc91ed9a")
+    ], 
+    "categories" : [
+        ObjectId("5d6411048ccbcf23ff406338"), 
+        ObjectId("5d6411bf8ccbcf23ff406342"), 
+        ObjectId("5d6411ef8ccbcf23ff406345")
+    ], 
+    "name" : "Vương Giả Danh Chiêu", 
+    "slug" : "vuong-gia-danh-chieu-1136", 
+    "desc" : " Truyện tranh Vương Giả Danh Chiêu được cập nhật nhất và đầy đủ nhất tại iManga.Mobi. Hãy ghé thăm iManga.Mobi mỗi ngày để được đọc các chương mới nhất của Vương Giả Danh Chiêu. ", 
+    "status" : false, 
+    "createdAt" : ISODate("2019-08-27T09:57:07.814+0000"), 
+    "updatedAt" : ISODate("2019-08-27T09:57:07.819+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d64fe734666110cb4300bc1", 
+    "translator" : ObjectId("5d6418e5614d0d25fc91ed9e"), 
+    "is_hot" : false
+}
+{ 
+    "_id" : ObjectId("5d64ff4680e2fe11399bcf97"), 
+    "authors" : [
+        ObjectId("5d64184e614d0d25fc91ed9a")
+    ], 
+    "categories" : [
+        ObjectId("5d64064f33f9aa215aaabfa6"), 
+        ObjectId("5d640ed68ccbcf23ff40632e"), 
+        ObjectId("5d6411998ccbcf23ff406340"), 
+        ObjectId("5d6411de8ccbcf23ff406344"), 
+        ObjectId("5d6411cf8ccbcf23ff406343"), 
+        ObjectId("5d6410828ccbcf23ff406332"), 
+        ObjectId("5d64129b8ccbcf23ff40634d"), 
+        ObjectId("5d6412d48ccbcf23ff406350"), 
+        ObjectId("5d640e4a8ccbcf23ff406327"), 
+        ObjectId("5d64066933f9aa215aaabfa7")
+    ], 
+    "status" : false, 
+    "name" : "Gothikan", 
+    "arlet" : "Cảnh báo độ tuổi: Truyện tranh Gothikan có thể có nội dung và hình ảnh nhạy cảm, không phù hợp với lứa tuổi của bạn. Nếu bạn dưới 16 tuổi, vui lòng chọn một truyện khác để giải trí. Chúng tôi sẽ không chịu trách nhiệm liên quan nếu bạn bỏ qua cảnh báo này. ", 
+    "slug" : "gothikan-1130", 
+    "desc" : "Không gì là vĩnh viễn. Tội ác chỉ là mơ hồ.", 
+    "createdAt" : ISODate("2019-08-27T10:00:38.873+0000"), 
+    "updatedAt" : ISODate("2019-08-27T10:04:31.594+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d64ff4680e2fe11399bcf97", 
+    "translator" : ObjectId("5d6418e5614d0d25fc91ed9e"), 
+    "is_hot" : true
+}
+{ 
+    "_id" : ObjectId("5d64ff9080e2fe11399bcf9a"), 
+    "authors" : [
+        ObjectId("5d64184e614d0d25fc91ed9a")
+    ], 
+    "categories" : [
+        ObjectId("5d64064f33f9aa215aaabfa6"), 
+        ObjectId("5d64067b33f9aa215aaabfa8"), 
+        ObjectId("5d640e3c8ccbcf23ff406326")
+    ], 
+    "status" : false, 
+    "name" : "Shuumatsu No Laughter", 
+    "desc" : "Một cô bé tên Haru cùng với anh trai tiến vào một ngôi làng. Anh cô bé là 1 kẻ bất tử mang dấu ấn của quỷ, anh ta bị người dân xa lánh và phân biệt đối xử rất dã man. Tại thành phố này, anh ta ký giao kèo với thị trưởng là sẽ chăm sóc cho 1 người bất tử cũng mang dấu ấn của quỷ khác tên là Godot, người mà đã ám ngôi làng trong suốt 5 năm trời, “Thực quỷ” có thể thực hiện được nhiệm vụ này không? đón đọc các chap truyện sau sẽ rõ.", 
+    "slug" : "shuumatsu-no-laughter-1129", 
+    "createdAt" : ISODate("2019-08-27T10:01:52.496+0000"), 
+    "updatedAt" : ISODate("2019-08-27T10:01:52.503+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d64ff9080e2fe11399bcf9a", 
+    "translator" : ObjectId("5d6418e5614d0d25fc91ed9e"), 
+    "is_hot" : false
+}
+{ 
+    "_id" : ObjectId("5d6501701b7cc31209eb3c47"), 
+    "authors" : [
+        ObjectId("5d64184e614d0d25fc91ed9a")
+    ], 
+    "categories" : [
+        ObjectId("5d64064f33f9aa215aaabfa6"), 
+        ObjectId("5d64067b33f9aa215aaabfa8"), 
+        ObjectId("5d640ed68ccbcf23ff40632e"), 
+        ObjectId("5d64128b8ccbcf23ff40634c"), 
+        ObjectId("5d6411048ccbcf23ff406338")
+    ], 
+    "status" : false, 
+    "name" : "Thiết Huyết Tam Diệp Đoàn", 
+    "slug" : "thiet-huyet-tam-diep-doan-1121", 
+    "desc" : " Truyện tranh Thiết Huyết Tam Diệp Đoàn được cập nhật nhất và đầy đủ nhất tại iManga.Mobi. Hãy ghé thăm iManga.Mobi mỗi ngày để được đọc các chương mới nhất của Thiết Huyết Tam Diệp Đoàn. ", 
+    "is_hot" : false, 
+    "createdAt" : ISODate("2019-08-27T10:09:52.760+0000"), 
+    "updatedAt" : ISODate("2019-08-27T10:09:52.769+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d6501701b7cc31209eb3c47", 
+    "translator" : ObjectId("5d6418e5614d0d25fc91ed9e")
+}
+{ 
+    "_id" : ObjectId("5d6501fb1b7cc31209eb3c4a"), 
+    "authors" : [
+        ObjectId("5d64184e614d0d25fc91ed9a")
+    ], 
+    "categories" : [
+        ObjectId("5d64064f33f9aa215aaabfa6"), 
+        ObjectId("5d640ed68ccbcf23ff40632e"), 
+        ObjectId("5d6411ab8ccbcf23ff406341"), 
+        ObjectId("5d6411bf8ccbcf23ff406342"), 
+        ObjectId("5d6411ef8ccbcf23ff406345")
+    ], 
+    "status" : false, 
+    "name" : "Sailor Moon (Kanzenban)", 
+    "slug" : "sailor-moon-kanzenban-1113", 
+    "desc" : " Truyện tranh Sailor Moon (Kanzenban) được cập nhật nhất và đầy đủ nhất tại iManga.Mobi. Hãy ghé thăm iManga.Mobi mỗi ngày để được đọc các chương mới nhất của Sailor Moon (Kanzenban). ", 
+    "is_hot" : false, 
+    "createdAt" : ISODate("2019-08-27T10:12:11.196+0000"), 
+    "updatedAt" : ISODate("2019-08-27T10:12:11.202+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d6501fb1b7cc31209eb3c4a", 
+    "translator" : ObjectId("5d6418e5614d0d25fc91ed9e")
+}
+{ 
+    "_id" : ObjectId("5d65027b1b7cc31209eb3c4d"), 
+    "authors" : [
+        ObjectId("5d64184e614d0d25fc91ed9a")
+    ], 
+    "categories" : [
+        ObjectId("5d6411048ccbcf23ff406338"), 
+        ObjectId("5d64128b8ccbcf23ff40634c")
+    ], 
+    "status" : false, 
+    "name" : "Phần Thiên", 
+    "slug" : "phan-thien-1112", 
+    "desc" : "Trong động kim thiềm sinh hai cánh, Đỉnh trong long hổ phun vân quang. Một kiếm giá ngự ngàn vạn dặm, Đạp mây liền muốn đi bát hoang.", 
+    "is_hot" : false, 
+    "createdAt" : ISODate("2019-08-27T10:14:19.241+0000"), 
+    "updatedAt" : ISODate("2019-08-27T10:14:19.249+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d65027b1b7cc31209eb3c4d", 
+    "translator" : ObjectId("5d6418e5614d0d25fc91ed9e")
+}
+{ 
+    "_id" : ObjectId("5d6503261b7cc31209eb3c50"), 
+    "authors" : [
+        ObjectId("5d64184e614d0d25fc91ed9a")
+    ], 
+    "categories" : [
+        ObjectId("5d64064f33f9aa215aaabfa6")
+    ], 
+    "status" : false, 
+    "name" : "Kyou Kara Hitman", 
+    "slug" : "kyou-kara-hitman-1111", 
+    "desc" : "Sát thủ tạm thời! Điều đó có làm bạn hứng thú không? Bên tay phải, ngón tay trỏ đặt trên cò súng, bên tay trái là nhẫn cưới, đó là cuộc sống mới của Tokichi Một nhân viên văn phòng hậu đậu và nhút nhát, bị ép buộc phải trở thành một sát thủ mổi đêm, một cuộc sống hai mặt: cuối đầu vào ban ngày, và đấu súng khi đêm xuống.", 
+    "is_hot" : false, 
+    "createdAt" : ISODate("2019-08-27T10:17:10.689+0000"), 
+    "updatedAt" : ISODate("2019-08-27T10:17:10.695+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d6503261b7cc31209eb3c50", 
+    "translator" : ObjectId("5d6418e5614d0d25fc91ed9e")
+}
+{ 
+    "_id" : ObjectId("5d65038c1b7cc31209eb3c53"), 
+    "authors" : [
+        ObjectId("5d64184e614d0d25fc91ed9a")
+    ], 
+    "categories" : [
+        ObjectId("5d64064f33f9aa215aaabfa6"), 
+        ObjectId("5d64067b33f9aa215aaabfa8"), 
+        ObjectId("5d64128b8ccbcf23ff40634c"), 
+        ObjectId("5d6410828ccbcf23ff406332"), 
+        ObjectId("5d64111b8ccbcf23ff406339"), 
+        ObjectId("5d6412d48ccbcf23ff406350")
+    ], 
+    "status" : false, 
+    "name" : "The Wizard", 
+    "slug" : "the-wizard-1100", 
+    "desc" : "Thời đại mà con người mà người thú cùng tồn tại. Vua của loài người với bản tính độc ác luôn tìm cách hã hại người thú. Và sự mạo hiểm của con người cứu giúp người thú thoát khỏi tên bạo chúa.", 
+    "is_hot" : false, 
+    "createdAt" : ISODate("2019-08-27T10:18:52.329+0000"), 
+    "updatedAt" : ISODate("2019-08-27T10:18:52.334+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d65038c1b7cc31209eb3c53", 
+    "translator" : ObjectId("5d6418e5614d0d25fc91ed9e")
+}
+{ 
+    "_id" : ObjectId("5d6503cd1b7cc31209eb3c56"), 
+    "authors" : [
+        ObjectId("5d64184e614d0d25fc91ed9a")
+    ], 
+    "categories" : [
+        ObjectId("5d64064f33f9aa215aaabfa6"), 
+        ObjectId("5d64061f338dba20f8b090bd"), 
+        ObjectId("5d640ed68ccbcf23ff40632e")
+    ], 
+    "status" : true, 
+    "name" : "Bách Luyện Thành Thần", 
+    "slug" : "bach-luyen-thanh-than-1099", 
+    "desc" : "Cảnh giới: Luyện nhục cảnh, Luyện cốt cảnh, Luyện tạng cảnh.... La Chính vì gái mà bị đày làm nô bộc. La Bái Nhiên tham vọng đầy mình La Chính lại vì gái mà đâm đầu tu luyện La Gia trong phủ nước sôi lửa bỏng, tranh giành kịch liệt...", 
+    "is_hot" : true, 
+    "surname" : "Hành Trình Tu Tiên", 
+    "createdAt" : ISODate("2019-08-27T10:19:57.950+0000"), 
+    "updatedAt" : ISODate("2019-08-27T10:21:15.959+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d6503cd1b7cc31209eb3c56", 
+    "translator" : ObjectId("5d6418e5614d0d25fc91ed9e")
+}
+{ 
+    "_id" : ObjectId("5d65047e1b7cc31209eb3c59"), 
+    "authors" : [
+        ObjectId("5d64184e614d0d25fc91ed9a")
+    ], 
+    "categories" : [
+        ObjectId("5d64061f338dba20f8b090bd"), 
+        ObjectId("5d6411bf8ccbcf23ff406342")
+    ], 
+    "status" : false, 
+    "name" : " Caste Heaven Caste Heaven", 
+    "slug" : "caste-heaven-1096", 
+    "desc" : "Trường học là một xã hội thu nhỏ. Nó bao hàm đầy đủ những thành tố tạo nên cái xã hội tàn khốc này...\r\n\r\nCái xã hội mà ở đó người ta giành giật từng xu từng hào, đốt cháy bản thân trong tham vọng quyền lực.\r\n\r\nCái xã hội mà ở đó bạn đạp người khác xuống vũng lầy để tiến lên hoặc chìm sâu xuống tận cùng và trở thành nấc thang cho kẻ khác...\r\n\r\nVòng xoáy điên cuồng đầy rẫy những ganh ghét, đố kỵ và dục vọng ấy chưa bao giờ buông tha bất kỳ một ai...\r\n\r\nKể cả tuổi trẻ vốn dĩ sáng tươi, đẹp đẽ.\r\n\r\nBạn không tin ư?\r\n", 
+    "is_hot" : true, 
+    "createdAt" : ISODate("2019-08-27T10:22:54.587+0000"), 
+    "updatedAt" : ISODate("2019-08-27T10:22:54.596+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d65047e1b7cc31209eb3c59", 
+    "translator" : ObjectId("5d6418e5614d0d25fc91ed9e")
+}
+{ 
+    "_id" : ObjectId("5d6504f71b7cc31209eb3c5c"), 
+    "authors" : [
+        ObjectId("5d64184e614d0d25fc91ed9a")
+    ], 
+    "categories" : [
+        ObjectId("5d640ed68ccbcf23ff40632e"), 
+        ObjectId("5d6411ab8ccbcf23ff406341"), 
+        ObjectId("5d6411ef8ccbcf23ff406345")
+    ], 
+    "status" : false, 
+    "name" : "Aishiteru Love You", 
+    "slug" : "aishiteru-love-you-1095", 
+    "desc" : " Truyện tranh Aishiteru Love You được cập nhật nhất và đầy đủ nhất tại iManga.Mobi. Hãy ghé thăm iManga.Mobi mỗi ngày để được đọc các chương mới nhất của Aishiteru Love You. ", 
+    "is_hot" : false, 
+    "createdAt" : ISODate("2019-08-27T10:24:55.638+0000"), 
+    "updatedAt" : ISODate("2019-08-27T10:24:55.647+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d6504f71b7cc31209eb3c5c", 
+    "translator" : ObjectId("5d6418e5614d0d25fc91ed9e")
+}
+{ 
+    "_id" : ObjectId("5d6505661b7cc31209eb3c5f"), 
+    "authors" : [
+        ObjectId("5d64184e614d0d25fc91ed9a")
+    ], 
+    "categories" : [
+        ObjectId("5d64067b33f9aa215aaabfa8"), 
+        ObjectId("5d640ed68ccbcf23ff40632e"), 
+        ObjectId("5d64128b8ccbcf23ff40634c"), 
+        ObjectId("5d6411048ccbcf23ff406338"), 
+        ObjectId("5d6411ef8ccbcf23ff406345"), 
+        ObjectId("5d64112b8ccbcf23ff40633a")
+    ], 
+    "status" : false, 
+    "name" : "Tu Chân Thời Hiện Đại", 
+    "slug" : "tu-chan-thoi-hien-dai-1094", 
+    "desc" : "Trong một lần tò mò, Lưu Thần đã tự ý mở cánh cửa vốn đã bị phong ấn từ rất lâu dưới tầng hầm. Kể từ đó, cuộc sống của cậu đã hoàn toàn thay đổi. Sẽ ra sao nếu một cậu nhóc học cấp III, vốn ham chơi, mê gái, nay lại phải bước đi trên con đường chân tu để trở thành một tu sĩ chân chính…? Mời các bạn cùng đón đọc “Tu chân thời hiện đại”!!!", 
+    "is_hot" : false, 
+    "createdAt" : ISODate("2019-08-27T10:26:46.843+0000"), 
+    "updatedAt" : ISODate("2019-08-27T10:26:46.848+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d6505661b7cc31209eb3c5f", 
+    "translator" : ObjectId("5d6418e5614d0d25fc91ed9e")
+}
+{ 
+    "_id" : ObjectId("5d6505c91b7cc31209eb3c62"), 
+    "authors" : [
+        ObjectId("5d64184e614d0d25fc91ed9a")
+    ], 
+    "categories" : [
+        ObjectId("5d64064f33f9aa215aaabfa6"), 
+        ObjectId("5d64067b33f9aa215aaabfa8"), 
+        ObjectId("5d640ed68ccbcf23ff40632e")
+    ], 
+    "status" : false, 
+    "name" : "Violinist Of Hameln", 
+    "slug" : "violinist-of-hameln-1093", 
+    "desc" : "Chiếc hộp Pandora là một tạo vật bị nguyền rủa. Chỉ vì sự tò mò của một cô gái trẻ, cái ác được giải phóng khỏi chiếc hộp và bao trùm gần như toàn bộ thế giới trong bóng tối. Kỳ diệu thay, với những sự hy sinh to lớn, loài người đã thành công trong việc phong ấn Quỷ vương Maou Kestra trở lại vào trong hộp. Tuy vậy, mặc dù không có chúa tể của mình lãnh đạo, loài quỷ dữ vẫn còn tồn tại một lực lượng ghê gớm mà theo thời gian, chúng càng ngày càng phát triển to lớn hơn; bị giam cầm ở Bắc Đô heo hút, Hameln. 15 năm đã trôi qua kể từ trận chiến định mệnh...   Đi cùng với Hameln - một chàng nhạc sĩ thời trung cổ thần kinh đến mức anh ta sẵn sàng cho vào nồi người bạn đường trung thành của mình - quạ đen Oboe mỗi khi anh ta lên cơn đói. Đòi thanh toán \"tiền công diệt quái vật\" với những người anh ta đã cứu và xem xem anh ta rôti những con bồ câu sau khi quơ chúng bất tỉnh bằng cây vĩ cầm siêu bự của mình như thế nào...   Chào mừng đến với thế giới của âm nhạc và những sự điên rồ bệnh hoạn, đó chính là Violinist of Hameln. Làm sao? thế giới được cứu rỗi khỏi Quỷ vương Maou Kestra (đảo ngữ của từ Orchestra: dàn nhạc) với một anh hùng kiểu như thế này?", 
+    "is_hot" : false, 
+    "createdAt" : ISODate("2019-08-27T10:28:25.957+0000"), 
+    "updatedAt" : ISODate("2019-08-27T10:28:25.966+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d6505c91b7cc31209eb3c62", 
+    "translator" : ObjectId("5d6418e5614d0d25fc91ed9e")
+}
+{ 
+    "_id" : ObjectId("5d65062f1b7cc31209eb3c65"), 
+    "authors" : [
+        ObjectId("5d64184e614d0d25fc91ed9a")
+    ], 
+    "categories" : [
+        ObjectId("5d640e3c8ccbcf23ff406326"), 
+        ObjectId("5d6412328ccbcf23ff406347"), 
+        ObjectId("5d6411bf8ccbcf23ff406342"), 
+        ObjectId("5d6411ef8ccbcf23ff406345"), 
+        ObjectId("5d6412558ccbcf23ff406349")
+    ], 
+    "status" : false, 
+    "name" : "Hinatama", 
+    "slug" : "hinatama-1078", 
+    "desc" : "Ở một thị trấn nhỏ như vậy, chẳng mất bao lâu để Hinata dính vào cái tên bình thản, đãng trí Ayato đó, cùng với mấy đứa em đáng yêu, nghịch ngợm của tên ấy: Hayato, Ikuto và Chiyoko. Đây sẽ là thử thách khó khăn cho gia đình Kazama để hòa nhập vào cuộc sống mới ở vùng nông thôn yên bình này.", 
+    "is_hot" : false, 
+    "createdAt" : ISODate("2019-08-27T10:30:07.099+0000"), 
+    "updatedAt" : ISODate("2019-08-27T10:30:07.105+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d65062f1b7cc31209eb3c65", 
+    "translator" : ObjectId("5d6418e5614d0d25fc91ed9e")
+}
+{ 
+    "_id" : ObjectId("5d6508600adffb177425f802"), 
+    "authors" : [
+        ObjectId("5d64184e614d0d25fc91ed9a")
+    ], 
+    "categories" : [
+        ObjectId("5d64064f33f9aa215aaabfa6"), 
+        ObjectId("5d64128b8ccbcf23ff40634c")
+    ], 
+    "status" : false, 
+    "name" : "1602", 
+    "slug" : "1602-1077", 
+    "desc" : "Một Bộ truyện được thực hiện dưới sự hợp tác của Marvel Vietnam và DCFanclubVN Mọi thứ diễn ra không tốt đẹp trong Vũ Trụ Marvel. Trong năm 1602 khi mà những cơn bão lạ đang nổi lên và những nguồn năng lượng mới đang trỗi dậy! Từ huyền thoại truyện tranh nổi tiếng - tác giả sách bán chạy nhất theo New York Times bình chọn: Neil Gaiman (Sandman, American God, Coraline,...) cùng với đội ngũ họa sĩ của bộ truyện tranh bán chạy ORIGIN - Andy Kubert và Richard Isanove, mang lại một cái nhìn mới đa chiều về vũ trụ Marvel. 1602 với sự góp mặt của các Siêu Anh hùng trong phiên bản thời nữ hoàng Elizabeth: Spiderman, The X-men, Daredevil, Captain America,... và nhiều nhân vật khác. Khi mà thế giới bắt đầu biến đổi và bước vào một kỉ nguyên mới, Gaiman đã viết nên một câu chuyện hết sức hấp dẫn và đầy bí ẩn. Làm cách nào và tại sao các siêu anh hùng của Marvel lại xuất hiện gần 400 năm trước khi họ được sinh ra ?", 
+    "is_hot" : false, 
+    "createdAt" : ISODate("2019-08-27T10:39:28.582+0000"), 
+    "updatedAt" : ISODate("2019-08-27T10:39:28.594+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d6508600adffb177425f802", 
+    "translator" : ObjectId("5d6418e5614d0d25fc91ed9e")
+}
+{ 
+    "_id" : ObjectId("5d6508b40adffb177425f805"), 
+    "authors" : [
+        ObjectId("5d64184e614d0d25fc91ed9a")
+    ], 
+    "categories" : [
+        ObjectId("5d64064f33f9aa215aaabfa6"), 
+        ObjectId("5d64067b33f9aa215aaabfa8"), 
+        ObjectId("5d640ed68ccbcf23ff40632e"), 
+        ObjectId("5d6411048ccbcf23ff406338")
+    ], 
+    "status" : false, 
+    "name" : "Hỏa Bạo Thiên Vương", 
+    "slug" : "hoa-bao-thien-vuong-1076", 
+    "desc" : "Một thiếu niên từ trong ngục đi ra, muội muội của hắn gặp bệnh nặng cho nên hắn thế thân cho muội muội của mình làm một thành viên của trong một nhóm nhạc.\r\nCho nên từ đó trong giới giải trí xuất hiện \" Hỏa Bạo Thiên Vương \".\r\nTrên người mang danh \" Thiên Vương \", hắn lại trà trộn vào cuộc sống sinh viên trong trường ĐH, vậy từ đó những điều gì sẽ đến với hắn.", 
+    "is_hot" : false, 
+    "createdAt" : ISODate("2019-08-27T10:40:52.592+0000"), 
+    "updatedAt" : ISODate("2019-08-27T10:40:52.602+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d6508b40adffb177425f805", 
+    "translator" : ObjectId("5d6418e5614d0d25fc91ed9e")
+}
+{ 
+    "_id" : ObjectId("5d6509b00adffb177425f808"), 
+    "authors" : [
+        ObjectId("5d64184e614d0d25fc91ed9a")
+    ], 
+    "categories" : [
+        ObjectId("5d64061f338dba20f8b090bd"), 
+        ObjectId("5d640e3c8ccbcf23ff406326"), 
+        ObjectId("5d640ed68ccbcf23ff40632e"), 
+        ObjectId("5d6412328ccbcf23ff406347"), 
+        ObjectId("5d6411ab8ccbcf23ff406341"), 
+        ObjectId("5d6411bf8ccbcf23ff406342"), 
+        ObjectId("5d640f008ccbcf23ff406330")
+    ], 
+    "status" : false, 
+    "name" : "Rakudai Kishi No Eiyuutan", 
+    "slug" : "rakudai-kishi-no-eiyuutan-1075", 
+    "desc" : "Trong thế giới có vô vàn những điều kì diệu , tiên nhã tri kỉ ngộ tương hữư.Thế giới về phép thuật và những lưỡi kiếm : \"Đấu thuật , Đấu phép , Đấu kiếm,...\". Thôi ko dài dòng tóm lại là main bị phạt ở chung vs đứa con gái đang thách đấu và vô vàn sự kiến diễn ra", 
+    "is_hot" : true, 
+    "createdAt" : ISODate("2019-08-27T10:45:04.099+0000"), 
+    "updatedAt" : ISODate("2019-08-27T10:45:04.105+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d6509b00adffb177425f808", 
+    "translator" : ObjectId("5d6418e5614d0d25fc91ed9e")
+}
+{ 
+    "_id" : ObjectId("5d6509f70adffb177425f80b"), 
+    "authors" : [
+        ObjectId("5d64184e614d0d25fc91ed9a")
+    ], 
+    "categories" : [
+        ObjectId("5d64064f33f9aa215aaabfa6"), 
+        ObjectId("5d6412328ccbcf23ff406347"), 
+        ObjectId("5d640f138ccbcf23ff406331")
+    ], 
+    "status" : false, 
+    "name" : "Bảo Bối Chiến Thần", 
+    "slug" : "bao-boi-chien-than-1074", 
+    "desc" : "Cuộc phiêu lưu của cậu nhóc Yakumo cùng Byakko no Kogenta.....", 
+    "is_hot" : false, 
+    "createdAt" : ISODate("2019-08-27T10:46:15.720+0000"), 
+    "updatedAt" : ISODate("2019-08-27T10:46:15.726+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d6509f70adffb177425f80b", 
+    "translator" : ObjectId("5d6418e5614d0d25fc91ed9e")
+}
+{ 
+    "_id" : ObjectId("5d650a3d0adffb177425f80e"), 
+    "authors" : [
+        ObjectId("5d64184e614d0d25fc91ed9a")
+    ], 
+    "categories" : [
+        ObjectId("5d64064f33f9aa215aaabfa6"), 
+        ObjectId("5d6411048ccbcf23ff406338"), 
+        ObjectId("5d6410828ccbcf23ff406332")
+    ], 
+    "status" : false, 
+    "name" : "Welcome To Ghost City", 
+    "slug" : "welcome-to-ghost-city-1066", 
+    "desc" : "Với sự gia tăng chóng mặt số lượng các hồn ma,sự tranh chấp về chỗ ở dần trở nơi nguy hiểm đối với con người . Giải pháp chính là: Bỏ hoang các tòa nhà để chỗ cho ma ở", 
+    "is_hot" : false, 
+    "createdAt" : ISODate("2019-08-27T10:47:25.952+0000"), 
+    "updatedAt" : ISODate("2019-08-27T10:47:25.958+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d650a3d0adffb177425f80e", 
+    "translator" : ObjectId("5d6418e5614d0d25fc91ed9e")
+}
+{ 
+    "_id" : ObjectId("5d650fdf03b7a11a22b6e455"), 
+    "authors" : [
+        ObjectId("5d650f7a03b7a11a22b6e454")
+    ], 
+    "categories" : [
+        ObjectId("5d64064f33f9aa215aaabfa6"), 
+        ObjectId("5d64067b33f9aa215aaabfa8"), 
+        ObjectId("5d640e3c8ccbcf23ff406326"), 
+        ObjectId("5d64061f338dba20f8b090bd"), 
+        ObjectId("5d640ed68ccbcf23ff40632e"), 
+        ObjectId("5d6412328ccbcf23ff406347"), 
+        ObjectId("5d64128b8ccbcf23ff40634c")
+    ], 
+    "status" : false, 
+    "like_count" : NumberInt(0), 
+    "name" : "Đảo Hải Tặc", 
+    "slug" : "dao-hai-tac-128", 
+    "is_hot" : true, 
+    "surname" : "Vua Hải Tặc,one Piece", 
+    "createdAt" : ISODate("2019-08-27T11:11:27.298+0000"), 
+    "updatedAt" : ISODate("2019-08-27T11:40:26.066+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d650fdf03b7a11a22b6e455", 
+    "translator" : ObjectId("5d6418e5614d0d25fc91ed9e"), 
+    "desc" : "One Piece là câu truyện kể về Luffy và các thuyền viên của mình. Khi còn nhỏ, Luffy ước mơ trở thành Vua Hải Tặc. Cuộc sống của cậu bé thay đổi khi cậu vô tình có được sức mạnh có thể co dãn như cao su, nhưng đổi lại, cậu không bao giờ có thể bơi được nữa. Giờ đây, Luffy cùng những người bạn hải tặc của mình ra khơi tìm kiếm kho báu One Piece, kho báu vĩ đại nhất trên thế giới. Trong One Piece, mỗi nhân vật trong đều mang một nét cá tính đặc sắc kết hợp cùng các tình huống kịch tính, lối dẫn truyện hấp dẫn chứa đầy các bước ngoặt bất ngờ và cũng vô cùng hài hước đã biến One Piece trở thành một trong những bộ truyện nổi tiếng nhất không thể bỏ qua. Hãy đọc One Piece để hòa mình vào một thế giới của những hải tặc rộng lớn, đầy màu sắc, sống động và thú vị, cùng đắm chìm với những nhân vật yêu tự do, trên hành trình đi tìm ước mơ của mình.", 
+    "chapter" : ObjectId("5d6516aac8ca1120fbab8685")
+}

@@ -1,0 +1,543 @@
+{ 
+    "_id" : ObjectId("5d64061f338dba20f8b090bd"), 
+    "name" : "Drama", 
+    "slug" : "drama-29", 
+    "createdAt" : ISODate("2019-08-26T16:17:35.914+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:47:38.781+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d64061f338dba20f8b090bd", 
+    "desc" : "Thể loại mang đến cho người xem những cảm xúc khác nhau: buồn bã, căng thẳng thậm chí là bi phẫn ", 
+    "manga" : ObjectId("5d64174022e0d62513e1160b")
+}
+{ 
+    "_id" : ObjectId("5d64064f33f9aa215aaabfa6"), 
+    "name" : "Action", 
+    "slug" : "action-26", 
+    "createdAt" : ISODate("2019-08-26T16:18:23.680+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:47:12.885+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d64064f33f9aa215aaabfa6", 
+    "desc" : "Thể loại này thường có nội dung về đánh nhau, bạo lực, hỗn loạn, với diễn biến nhanh ", 
+    "manga" : ObjectId("5d6419c7614d0d25fc91eda2")
+}
+{ 
+    "_id" : ObjectId("5d64066933f9aa215aaabfa7"), 
+    "name" : "Adult", 
+    "slug" : "adult-68", 
+    "createdAt" : ISODate("2019-08-26T16:18:49.912+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:15:59.930+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d64066933f9aa215aaabfa7", 
+    "desc" : "Thể loại có đề cập đến vấn đề nhạy cảm, chỉ dành cho tuổi 17+ "
+}
+{ 
+    "_id" : ObjectId("5d64067b33f9aa215aaabfa8"), 
+    "slug" : "adventure-27", 
+    "name" : "Adventure", 
+    "createdAt" : ISODate("2019-08-26T16:19:07.571+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:47:06.979+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d64067b33f9aa215aaabfa8", 
+    "desc" : "Thể loại phiêu lưu, mạo hiểm, thường là hành trình của các nhân vật ", 
+    "manga" : ObjectId("5d641953614d0d25fc91ed9f")
+}
+{ 
+    "_id" : ObjectId("5d64069333f9aa215aaabfa9"), 
+    "slug" : "anime-62", 
+    "name" : "Anime", 
+    "createdAt" : ISODate("2019-08-26T16:19:31.929+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:16:57.447+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d64069333f9aa215aaabfa9", 
+    "desc" : "Truyện đã được chuyển thể thành film Anime "
+}
+{ 
+    "_id" : ObjectId("5d6406ad33f9aa215aaabfaa"), 
+    "slug" : "chuyen-sinh-91", 
+    "name" : "Chuyển Sinh", 
+    "createdAt" : ISODate("2019-08-26T16:19:57.181+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:17:09.129+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d6406ad33f9aa215aaabfaa", 
+    "desc" : "Thể loại này là những câu chuyện về người ở một thế giới này xuyên đến một thế giới khác, có thể là thế giới mang phong cách trung cổ với kiếm sĩ và ma thuật, hay thế giới trong game, hoặc có thể là bạn chết ở nơi này và được chuyển sinh đến nơi khác "
+}
+{ 
+    "_id" : ObjectId("5d640e268ccbcf23ff406325"), 
+    "slug" : "co-dai-90", 
+    "name" : "Cổ Đại", 
+    "createdAt" : ISODate("2019-08-26T16:51:50.836+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:17:21.558+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d640e268ccbcf23ff406325", 
+    "desc" : "Truyện có nội dung xảy ra ở thời cổ đại phong kiến. "
+}
+{ 
+    "_id" : ObjectId("5d640e3c8ccbcf23ff406326"), 
+    "name" : "Comedy", 
+    "slug" : "comedy-28", 
+    "createdAt" : ISODate("2019-08-26T16:52:12.696+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:47:12.885+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d640e3c8ccbcf23ff406326", 
+    "desc" : "Thể loại có nội dung trong sáng và cảm động, thường có các tình tiết gây cười, các xung đột nhẹ nhàng ", 
+    "manga" : ObjectId("5d6419c7614d0d25fc91eda2")
+}
+{ 
+    "_id" : ObjectId("5d640e4a8ccbcf23ff406327"), 
+    "name" : "Comic", 
+    "slug" : "comic-60", 
+    "createdAt" : ISODate("2019-08-26T16:52:26.760+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:47:52.057+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d640e4a8ccbcf23ff406327", 
+    "desc" : "Truyện tranh Châu Âu và Châu Mĩ ", 
+    "manga" : ObjectId("5d6418af614d0d25fc91ed9b")
+}
+{ 
+    "_id" : ObjectId("5d640e598ccbcf23ff406328"), 
+    "name" : "Demons", 
+    "slug" : "demons-99", 
+    "createdAt" : ISODate("2019-08-26T16:52:41.897+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:18:11.581+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d640e598ccbcf23ff406328", 
+    "desc" : "Demons"
+}
+{ 
+    "_id" : ObjectId("5d640e748ccbcf23ff406329"), 
+    "slug" : "detective-100", 
+    "name" : "Detective", 
+    "createdAt" : ISODate("2019-08-26T16:53:08.026+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:18:26.352+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d640e748ccbcf23ff406329", 
+    "desc" : "Thể loại điều tra, trinh thám. "
+}
+{ 
+    "_id" : ObjectId("5d640e878ccbcf23ff40632a"), 
+    "slug" : "doujinshi-96", 
+    "name" : "Doujinshi", 
+    "createdAt" : ISODate("2019-08-26T16:53:27.120+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:18:43.825+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d640e878ccbcf23ff40632a", 
+    "desc" : "Thể loại truyện phóng tác do fan hay có thể cả những Mangaka khác với tác giả truyện gốc. Tác giả vẽ Doujinshi thường dựa trên những nhân vật gốc để viết ra những câu chuyện theo sở thích của mình "
+}
+{ 
+    "_id" : ObjectId("5d640e968ccbcf23ff40632b"), 
+    "name" : "Drama", 
+    "slug" : "drama-29", 
+    "createdAt" : ISODate("2019-08-26T16:53:42.187+0000"), 
+    "updatedAt" : ISODate("2019-08-26T16:53:42.192+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d640e968ccbcf23ff40632b"
+}
+{ 
+    "_id" : ObjectId("5d640ead8ccbcf23ff40632c"), 
+    "slug" : "dam-my-93", 
+    "name" : "Đam Mỹ", 
+    "createdAt" : ISODate("2019-08-26T16:54:05.867+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:19:14.787+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d640ead8ccbcf23ff40632c", 
+    "desc" : "Truyện tình cảm giữa nam và nam. "
+}
+{ 
+    "_id" : ObjectId("5d640ebf8ccbcf23ff40632d"), 
+    "slug" : "ecchi-50", 
+    "name" : "Ecchi", 
+    "createdAt" : ISODate("2019-08-26T16:54:23.118+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:19:31.023+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d640ebf8ccbcf23ff40632d", 
+    "desc" : "Thường có những tình huống nhạy cảm nhằm lôi cuốn người xem "
+}
+{ 
+    "_id" : ObjectId("5d640ed68ccbcf23ff40632e"), 
+    "slug" : "fantasy-30", 
+    "name" : "Fantasy", 
+    "createdAt" : ISODate("2019-08-26T16:54:46.565+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:47:06.979+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d640ed68ccbcf23ff40632e", 
+    "desc" : "Thể loại xuất phát từ trí tưởng tượng phong phú, từ pháp thuật đến thế giới trong mơ thậm chí là những câu chuyện thần tiên ", 
+    "manga" : ObjectId("5d641953614d0d25fc91ed9f")
+}
+{ 
+    "_id" : ObjectId("5d640eed8ccbcf23ff40632f"), 
+    "name" : "Gender Bender", 
+    "slug" : "gender-bender", 
+    "createdAt" : ISODate("2019-08-26T16:55:09.007+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:47:06.979+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d640eed8ccbcf23ff40632f", 
+    "desc" : " Là một thể loại trong đó giới tính của nhân vật bị lẫn lộn: nam hoá thành nữ, nữ hóa thành nam... ", 
+    "manga" : ObjectId("5d641953614d0d25fc91ed9f")
+}
+{ 
+    "_id" : ObjectId("5d640f008ccbcf23ff406330"), 
+    "slug" : "harem-47", 
+    "name" : "Harem", 
+    "createdAt" : ISODate("2019-08-26T16:55:28.874+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:20:21.677+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d640f008ccbcf23ff406330", 
+    "desc" : "Thể loại truyện tình cảm, lãng mạn mà trong đó, nhiều nhân vật nữ thích một nam nhân vật chính "
+}
+{ 
+    "_id" : ObjectId("5d640f138ccbcf23ff406331"), 
+    "slug" : "historical-51", 
+    "name" : "Historical", 
+    "createdAt" : ISODate("2019-08-26T16:55:47.109+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:20:35.586+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d640f138ccbcf23ff406331", 
+    "desc" : "Thể loại có liên quan đến thời xa xưa, lịch sử. "
+}
+{ 
+    "_id" : ObjectId("5d6410828ccbcf23ff406332"), 
+    "name" : "Horror", 
+    "slug" : "horror-44", 
+    "createdAt" : ISODate("2019-08-26T17:01:54.367+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:20:49.122+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d6410828ccbcf23ff406332", 
+    "desc" : "Horror là: rùng rợn, nghe cái tên là bạn đã hiểu thể loại này có nội dung thế nào. Nó làm cho bạn kinh hãi, khiếp sợ, ghê tởm, run rẩy, có thể gây sock - một thể loại không dành cho người yếu tim "
+}
+{ 
+    "_id" : ObjectId("5d6410968ccbcf23ff406333"), 
+    "name" : "Huyền Huyễn", 
+    "slug" : "huyen-huyen-468", 
+    "createdAt" : ISODate("2019-08-26T17:02:14.604+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:21:03.975+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d6410968ccbcf23ff406333", 
+    "desc" : "Truyện có yếu tố phép thuật, kỳ ảo… được đặt trong bối cảnh siêu tưởng (tiên giới, ma giới…) "
+}
+{ 
+    "_id" : ObjectId("5d6410b38ccbcf23ff406334"), 
+    "name" : "Isekai", 
+    "slug" : "isekai-85", 
+    "createdAt" : ISODate("2019-08-26T17:02:43.457+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:21:18.657+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d6410b38ccbcf23ff406334", 
+    "desc" : "Isekai, đôi khi còn được gọi là xuyên không hay chuyển sinh, là một tiểu thể loại light novel, manga, anime và video game kỳ ảo của Nhật Bản, xoay quanh một người bình thường được đưa đến hoặc bị mắc kẹt trong một vũ trụ song song. "
+}
+{ 
+    "_id" : ObjectId("5d6410c58ccbcf23ff406335"), 
+    "name" : "Josei", 
+    "slug" : "josei-54", 
+    "createdAt" : ISODate("2019-08-26T17:03:01.853+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:21:31.767+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d6410c58ccbcf23ff406335", 
+    "desc" : "Thể loại của manga hay anime được sáng tác chủ yếu bởi phụ nữ cho những độc giả nữ từ 18 đến 30. Josei manga có thể miêu tả những lãng mạn thực tế , nhưng trái ngược với hầu hết các kiểu lãng mạn lí tưởng của Shoujo manga với cốt truyện rõ ràng, chín chắn "
+}
+{ 
+    "_id" : ObjectId("5d6410de8ccbcf23ff406336"), 
+    "slug" : "mafia-69", 
+    "name" : "Mafia", 
+    "createdAt" : ISODate("2019-08-26T17:03:26.079+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:21:49.394+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d6410de8ccbcf23ff406336", 
+    "desc" : "Mafia"
+}
+{ 
+    "_id" : ObjectId("5d6410f18ccbcf23ff406337"), 
+    "slug" : "magic-58", 
+    "name" : "Magic", 
+    "createdAt" : ISODate("2019-08-26T17:03:45.173+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:22:03.906+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d6410f18ccbcf23ff406337", 
+    "desc" : "Thể loại giả tưởng có tồn tại những sức mạnh siêu nhiên như thần chú, gây phép, vòng tròn ma thuật...  "
+}
+{ 
+    "_id" : ObjectId("5d6411048ccbcf23ff406338"), 
+    "slug" : "manhua-35", 
+    "name" : "Manhua", 
+    "createdAt" : ISODate("2019-08-26T17:04:04.265+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:22:29.663+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d6411048ccbcf23ff406338", 
+    "desc" : "Truyện tranh của Trung Quốc "
+}
+{ 
+    "_id" : ObjectId("5d64111b8ccbcf23ff406339"), 
+    "name" : "Manhwa", 
+    "slug" : "manhwa-49", 
+    "createdAt" : ISODate("2019-08-26T17:04:27.402+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:47:06.979+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d64111b8ccbcf23ff406339", 
+    "desc" : "Truyện tranh Hàn Quốc, đọc từ trái sang phải ", 
+    "manga" : ObjectId("5d641953614d0d25fc91ed9f")
+}
+{ 
+    "_id" : ObjectId("5d64112b8ccbcf23ff40633a"), 
+    "name" : "Martial Arts", 
+    "slug" : "martial-arts-41", 
+    "createdAt" : ISODate("2019-08-26T17:04:43.470+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:22:58.082+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d64112b8ccbcf23ff40633a", 
+    "desc" : "Giống với tên gọi, bất cứ gì liên quan đến võ thuật trong truyện từ các trận đánh nhau, tự vệ đến các môn võ thuật như akido, karate, judo hay taekwondo, kendo, các cách né tránh "
+}
+{ 
+    "_id" : ObjectId("5d64113c8ccbcf23ff40633b"), 
+    "name" : "Mature", 
+    "slug" : "mature-48", 
+    "createdAt" : ISODate("2019-08-26T17:05:00.656+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:23:16.525+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d64113c8ccbcf23ff40633b", 
+    "desc" : "Thể loại dành cho lứa tuổi 17+ bao gồm các pha bạo lực, máu me, chém giết, tình dục ở mức độ vừa "
+}
+{ 
+    "_id" : ObjectId("5d64114c8ccbcf23ff40633c"), 
+    "name" : "Military", 
+    "slug" : "military-101", 
+    "createdAt" : ISODate("2019-08-26T17:05:16.721+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:23:31.937+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d64114c8ccbcf23ff40633c", 
+    "desc" : "Truyện Quân Sự "
+}
+{ 
+    "_id" : ObjectId("5d6411618ccbcf23ff40633d"), 
+    "slug" : "mystery-39", 
+    "name" : "Mystery", 
+    "createdAt" : ISODate("2019-08-26T17:05:37.486+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:47:52.057+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d6411618ccbcf23ff40633d", 
+    "desc" : "Thể loại thường xuất hiện những điều bí ấn không thể lí giải được và sau đó là những nỗ lực của nhân vật chính nhằm tìm ra câu trả lời thỏa đáng ", 
+    "manga" : ObjectId("5d6418af614d0d25fc91ed9b")
+}
+{ 
+    "_id" : ObjectId("5d6411768ccbcf23ff40633e"), 
+    "slug" : "ngon-tinh-87", 
+    "name" : "Ngôn Tình", 
+    "createdAt" : ISODate("2019-08-26T17:05:58.093+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:24:16.665+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d6411768ccbcf23ff40633e", 
+    "desc" : "Truyện thuộc kiểu lãng mạn, kể về những sự kiện vui buồn trong tình yêu của nhân vật chính. "
+}
+{ 
+    "_id" : ObjectId("5d64118a8ccbcf23ff40633f"), 
+    "name" : "One shot", 
+    "slug" : "one-shot-95", 
+    "createdAt" : ISODate("2019-08-26T17:06:18.461+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:24:34.679+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d64118a8ccbcf23ff40633f", 
+    "desc" : "Những truyện ngắn, thường là 1 chapter "
+}
+{ 
+    "_id" : ObjectId("5d6411998ccbcf23ff406340"), 
+    "slug" : "psychological-40", 
+    "name" : "Psychological", 
+    "createdAt" : ISODate("2019-08-26T17:06:33.464+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:47:38.781+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d6411998ccbcf23ff406340", 
+    "desc" : "Thể loại liên quan đến những vấn đề về tâm lý của nhân vật ( tâm thần bất ổn, điên cuồng ...) ", 
+    "manga" : ObjectId("5d64174022e0d62513e1160b")
+}
+{ 
+    "_id" : ObjectId("5d6411ab8ccbcf23ff406341"), 
+    "slug" : "romance-36", 
+    "name" : "Romance", 
+    "createdAt" : ISODate("2019-08-26T17:06:51.904+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:25:04.291+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d6411ab8ccbcf23ff406341", 
+    "desc" : "Thường là những câu chuyện về tình yêu, tình cảm lãng mạn. Ớ đây chúng ta sẽ lấy ví dụ như tình yêu giữa một người con trai và con gái, bên cạnh đó đặc điểm thể loại này là kích thích trí tưởng tượng của bạn về tình yêu "
+}
+{ 
+    "_id" : ObjectId("5d6411bf8ccbcf23ff406342"), 
+    "name" : "School Life", 
+    "slug" : "school-life-37", 
+    "createdAt" : ISODate("2019-08-26T17:07:11.150+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:25:16.709+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d6411bf8ccbcf23ff406342", 
+    "desc" : "Trong thể loại này, ngữ cảnh diễn biến câu chuyện chủ yếu ở trường học "
+}
+{ 
+    "_id" : ObjectId("5d6411cf8ccbcf23ff406343"), 
+    "name" : "Sci-fi", 
+    "slug" : "sci-fi-43", 
+    "createdAt" : ISODate("2019-08-26T17:07:27.164+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:25:28.328+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d6411cf8ccbcf23ff406343", 
+    "desc" : "Bao gồm những chuyện khoa học viễn tưởng, đa phần chúng xoay quanh nhiều hiện tượng mà liên quan tới khoa học, công nghệ, tuy vậy thường thì những câu chuyện đó không gắn bó chặt chẽ với các thành tựu khoa học hiện thời, mà là do con người tưởng tượng ra "
+}
+{ 
+    "_id" : ObjectId("5d6411de8ccbcf23ff406344"), 
+    "name" : "Seinen", 
+    "slug" : "seinen-42", 
+    "createdAt" : ISODate("2019-08-26T17:07:42.722+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:25:41.769+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d6411de8ccbcf23ff406344", 
+    "desc" : "Thể loại của manga thường nhằm vào những đối tượng nam 18 đến 30 tuổi, nhưng người xem có thể lớn tuổi hơn, với một vài bộ truyện nhắm đến các doanh nhân nam quá 40. Thể loại này có nhiều phong cách riêng biệt , nhưng thể loại này có những nét riêng biệt, thường được phân vào những phong cách nghệ thuật rộng hơn và phong phú hơn về chủ đề, có các loại từ mới mẻ tiên tiến đến khiêu dâm "
+}
+{ 
+    "_id" : ObjectId("5d6411ef8ccbcf23ff406345"), 
+    "name" : "Shoujo", 
+    "slug" : "shoujo-38", 
+    "createdAt" : ISODate("2019-08-26T17:07:59.032+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:26:09.217+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d6411ef8ccbcf23ff406345", 
+    "desc" : "Đối tượng hướng tới của thể loại này là phái nữ. Nội dung của những bộ manga này thường liên quan đến tình cảm lãng mạn, chú trọng đầu tư cho nhân vật (tính cách,...) "
+}
+{ 
+    "_id" : ObjectId("5d6412098ccbcf23ff406346"), 
+    "slug" : "shoujo-ai-98", 
+    "name" : "Shoujo Ai", 
+    "createdAt" : ISODate("2019-08-26T17:08:25.160+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:26:23.741+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d6412098ccbcf23ff406346", 
+    "desc" : "Thể loại quan hệ hoặc liên quan tới đồng tính nữ, thể hiện trong các mối quan hệ trên mức bình thường giữa các nhân vật nữ trong các manga, anime "
+}
+{ 
+    "_id" : ObjectId("5d6412328ccbcf23ff406347"), 
+    "name" : "Shounen", 
+    "slug" : "shounen-31", 
+    "createdAt" : ISODate("2019-08-26T17:09:06.651+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:47:06.979+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d6412328ccbcf23ff406347", 
+    "desc" : "Đối tượng hướng tới của thể loại này là phái nam. Nội dung của những bộ manga này thường liên quan đến đánh nhau và/hoặc bạo lực (ở mức bình thường, không thái quá) ", 
+    "manga" : ObjectId("5d641953614d0d25fc91ed9f")
+}
+{ 
+    "_id" : ObjectId("5d6412448ccbcf23ff406348"), 
+    "slug" : "shounen-ai-86", 
+    "name" : "Shounen Ai", 
+    "createdAt" : ISODate("2019-08-26T17:09:24.367+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:26:51.900+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d6412448ccbcf23ff406348", 
+    "desc" : "Thể loại có nội dung về tình yêu giữa những chàng trai trẻ, mang tính chất lãng mạn nhưng ko đề cập đến quan hệ tình dục "
+}
+{ 
+    "_id" : ObjectId("5d6412558ccbcf23ff406349"), 
+    "name" : "Slice of life", 
+    "slug" : "slice-of-life-46", 
+    "createdAt" : ISODate("2019-08-26T17:09:41.815+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:27:01.167+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d6412558ccbcf23ff406349", 
+    "desc" : "Nói về cuộc sống đời thường "
+}
+{ 
+    "_id" : ObjectId("5d6412648ccbcf23ff40634a"), 
+    "name" : "Smut", 
+    "slug" : "smut-97", 
+    "createdAt" : ISODate("2019-08-26T17:09:56.363+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:27:09.235+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d6412648ccbcf23ff40634a", 
+    "desc" : "Những truyện có nội dung hơi nhạy cảm, đặc biệt là liên quan đến tình dục "
+}
+{ 
+    "_id" : ObjectId("5d64127a8ccbcf23ff40634b"), 
+    "name" : "Sports", 
+    "slug" : "sports-57", 
+    "createdAt" : ISODate("2019-08-26T17:10:18.302+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:27:22.306+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d64127a8ccbcf23ff40634b", 
+    "desc" : "Đúng như tên gọi, những môn thể thao như bóng đá, bóng chày, bóng chuyền, đua xe, cầu lông,... là một phần của thể loại này "
+}
+{ 
+    "_id" : ObjectId("5d64128b8ccbcf23ff40634c"), 
+    "name" : "Supernatural", 
+    "slug" : "supernatural-32", 
+    "createdAt" : ISODate("2019-08-26T17:10:35.642+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:47:52.057+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d64128b8ccbcf23ff40634c", 
+    "desc" : "Thể hiện những sức mạnh đáng kinh ngạc và không thể giải thích được, chúng thường đi kèm với những sự kiện trái ngược hoặc thách thức với những định luật vật lý ", 
+    "manga" : ObjectId("5d6418af614d0d25fc91ed9b")
+}
+{ 
+    "_id" : ObjectId("5d64129b8ccbcf23ff40634d"), 
+    "slug" : "tragedy-52", 
+    "name" : "Tragedy", 
+    "createdAt" : ISODate("2019-08-26T17:10:51.198+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:27:44.541+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d64129b8ccbcf23ff40634d", 
+    "desc" : "Thể loại chứa đựng những sự kiện mà dẫn đến kết cục là những mất mát hay sự rủi ro to lớn "
+}
+{ 
+    "_id" : ObjectId("5d6412aa8ccbcf23ff40634e"), 
+    "name" : "Trọng Sinh", 
+    "slug" : "trong-sinh-82", 
+    "createdAt" : ISODate("2019-08-26T17:11:06.608+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:27:53.941+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d6412aa8ccbcf23ff40634e", 
+    "desc" : "Trọng sinh là thể loại mà nhân vật chính vì một lý do nào đó chết đi rồi đầu thai vào kiếp khác nhưng vẫn giữ lại được kí ức của mình ở kiếp trước. "
+}
+{ 
+    "_id" : ObjectId("5d6412c18ccbcf23ff40634f"), 
+    "name" : "Truyện Màu", 
+    "slug" : "truyen-mau-92", 
+    "createdAt" : ISODate("2019-08-26T17:11:29.326+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:47:06.979+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d6412c18ccbcf23ff40634f", 
+    "desc" : "Tổng hợp truyện tranh màu, rõ, đẹp ", 
+    "manga" : ObjectId("5d641953614d0d25fc91ed9f")
+}
+{ 
+    "_id" : ObjectId("5d6412d48ccbcf23ff406350"), 
+    "name" : "Webtoon", 
+    "slug" : "webtoon-55", 
+    "createdAt" : ISODate("2019-08-26T17:11:48.625+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:47:06.979+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d6412d48ccbcf23ff406350", 
+    "desc" : "Là truyện tranh được đăng dài kỳ trên internet của Hàn Quốc chứ không xuất bản theo cách thông thường ", 
+    "manga" : ObjectId("5d641953614d0d25fc91ed9f")
+}
+{ 
+    "_id" : ObjectId("5d6412e48ccbcf23ff406351"), 
+    "name" : "Xuyên Không", 
+    "slug" : "xuyen-khong-88", 
+    "createdAt" : ISODate("2019-08-26T17:12:04.817+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:28:31.894+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d6412e48ccbcf23ff406351", 
+    "desc" : "Xuyên Không, Xuyên Việt là thể loại nhân vật chính vì một lý do nào đó mà bị đưa đến sinh sống ở một không gian hay một khoảng thời gian khác. Nhân vật chính có thể trực tiếp xuyên qua bằng thân xác mình hoặc sống lại bằng thân xác người khác. "
+}
+{ 
+    "_id" : ObjectId("5d6412fe8ccbcf23ff406352"), 
+    "name" : "Yaoi", 
+    "slug" : "yaoi-70", 
+    "createdAt" : ISODate("2019-08-26T17:12:30.205+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:28:41.980+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d6412fe8ccbcf23ff406352", 
+    "desc" : "Thể loại về tình yêu giữa đồng tính nam, có thể có cảnh sex "
+}
+{ 
+    "_id" : ObjectId("5d6413138ccbcf23ff406353"), 
+    "name" : "Yuri", 
+    "slug" : "yuri-75", 
+    "createdAt" : ISODate("2019-08-26T17:12:51.322+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:15:04.640+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d6413138ccbcf23ff406353", 
+    "desc" : "Thể loại về đồng tính nữ, có thể có cảnh sex "
+}

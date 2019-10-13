@@ -1,0 +1,29 @@
+{
+  "connection": "default",
+  "collectionName": "categories",
+  "info": {
+    "name": "categories",
+    "description": ""
+  },
+  "options": {
+    "timestamps": [
+      "createdAt",
+      "updatedAt"
+    ]
+  },
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "slug": {
+      "type": "string"
+    },
+    "desc": {
+      "type": "string"
+    },
+    "manga": {
+      "collection": "manga",
+      "via": "categories"
+    }
+  }
+}

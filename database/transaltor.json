@@ -1,0 +1,10 @@
+{ 
+    "_id" : ObjectId("5d6418e5614d0d25fc91ed9e"), 
+    "name" : "Đang Cập Nhật", 
+    "slug" : "dang-cap-nhat", 
+    "createdAt" : ISODate("2019-08-26T17:37:41.624+0000"), 
+    "updatedAt" : ISODate("2019-08-26T17:47:12.883+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d6418e5614d0d25fc91ed9e", 
+    "manga" : ObjectId("5d6419c7614d0d25fc91eda2")
+}

@@ -1,0 +1,52 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/translators",
+      "handler": "Translators.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/translators/count",
+      "handler": "Translators.count",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/translators/:_id",
+      "handler": "Translators.findOne",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/translators",
+      "handler": "Translators.create",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/translators/:_id",
+      "handler": "Translators.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/translators/:_id",
+      "handler": "Translators.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}

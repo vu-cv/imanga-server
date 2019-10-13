@@ -1,0 +1,21 @@
+{ 
+    "_id" : ObjectId("5d63ff0040225f1d3e0fbb02"), 
+    "name" : "Authenticated", 
+    "description" : "Default role given to authenticated user.", 
+    "type" : "authenticated", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d63ff0040225f1d3e0fbb03"), 
+    "name" : "Public", 
+    "description" : "Default role given to unauthenticated user.", 
+    "type" : "public", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d655a39bc85bc4cdaaad457"), 
+    "name" : "Editor", 
+    "description" : "", 
+    "type" : "editor", 
+    "__v" : NumberInt(0)
+}

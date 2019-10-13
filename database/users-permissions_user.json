@@ -1,0 +1,14 @@
+{ 
+    "_id" : ObjectId("5d6559f6bc85bc4cdaaad456"), 
+    "confirmed" : true, 
+    "blocked" : false, 
+    "username" : "vucv", 
+    "email" : "vucv@gmail.com", 
+    "provider" : "local", 
+    "password" : "$2a$10$a2psvYomznmPeJEF6vuYQuwxHlPGdJ.Nc/OOsYl8bhU9yx/l/G/N.", 
+    "createdAt" : ISODate("2019-08-27T16:27:34.556+0000"), 
+    "updatedAt" : ISODate("2019-08-27T16:27:34.563+0000"), 
+    "__v" : NumberInt(0), 
+    "id" : "5d6559f6bc85bc4cdaaad456", 
+    "role" : ObjectId("5d655a39bc85bc4cdaaad457")
+}

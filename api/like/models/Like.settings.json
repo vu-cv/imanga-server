@@ -1,0 +1,23 @@
+{
+  "connection": "default",
+  "collectionName": "like",
+  "info": {
+    "name": "like",
+    "description": ""
+  },
+  "options": {
+    "timestamps": [
+      "createdAt",
+      "updatedAt"
+    ]
+  },
+  "attributes": {
+    "user": {
+      "model": "user",
+      "plugin": "users-permissions"
+    },
+    "manga": {
+      "model": "manga"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "connection": "default",
+  "collectionName": "chapter",
+  "info": {
+    "name": "chapter",
+    "description": ""
+  },
+  "options": {
+    "timestamps": [
+      "createdAt",
+      "updatedAt"
+    ]
+  },
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "content": {
+      "type": "text",
+      "minLength": 1,
+      "required": true
+    },
+    "linkVideo": {
+      "type": "string"
+    },
+    "viewCount": {
+      "type": "biginteger"
+    },
+    "manga": {
+      "model": "manga",
+      "via": "chapters"
+    },
+    "chapterNumber": {
+      "type": "integer",
+      "unique": true
+    },
+    "picture": {
+      "model": "file",
+      "via": "related",
+      "plugin": "upload"
+    }
+  }
+}

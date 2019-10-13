@@ -1,0 +1,52 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/manga",
+      "handler": "Manga.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/manga/count",
+      "handler": "Manga.count",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/manga/:_id",
+      "handler": "Manga.findOne",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/manga",
+      "handler": "Manga.create",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/manga/:_id",
+      "handler": "Manga.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/manga/:_id",
+      "handler": "Manga.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}

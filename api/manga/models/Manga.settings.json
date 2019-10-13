@@ -1,0 +1,89 @@
+{
+  "connection": "default",
+  "collectionName": "manga",
+  "info": {
+    "name": "manga",
+    "description": ""
+  },
+  "options": {
+    "timestamps": [
+      "createdAt",
+      "updatedAt"
+    ]
+  },
+  "attributes": {
+    "name": {
+      "type": "string",
+      "maxLength": 255,
+      "required": true,
+      "minLength": 1
+    },
+    "slug": {
+      "type": "string",
+      "maxLength": 255,
+      "required": true,
+      "unique": true,
+      "minLength": 2
+    },
+    "desc": {
+      "type": "text"
+    },
+    "picture": {
+      "model": "file",
+      "via": "related",
+      "plugin": "upload"
+    },
+    "translator": {
+      "model": "translators",
+      "via": "manga"
+    },
+    "authors": {
+      "collection": "author",
+      "via": "manga",
+      "dominant": true
+    },
+    "categories": {
+      "collection": "categories",
+      "via": "manga",
+      "dominant": true
+    },
+    "surname": {
+      "type": "string",
+      "maxLength": 255,
+      "minLength": 10
+    },
+    "status": {
+      "type": "boolean",
+      "required": true
+    },
+    "arlet": {
+      "type": "string"
+    },
+    "isHot": {
+      "required": true,
+      "type": "boolean"
+    },
+    "likeCount": {
+      "type": "biginteger",
+      "default": "1",
+      "min": 1
+    },
+    "isMale": {
+      "type": "boolean"
+    },
+    "followCount": {
+      "type": "biginteger",
+      "min": 1,
+      "default": "1"
+    },
+    "viewCount": {
+      "type": "biginteger",
+      "min": 1,
+      "default": "1"
+    },
+    "chapters": {
+      "collection": "chapter",
+      "via": "manga"
+    }
+  }
+}

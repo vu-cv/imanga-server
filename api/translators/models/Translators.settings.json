@@ -1,0 +1,29 @@
+{
+  "connection": "default",
+  "collectionName": "transaltor",
+  "info": {
+    "name": "translators",
+    "description": ""
+  },
+  "options": {
+    "timestamps": [
+      "createdAt",
+      "updatedAt"
+    ]
+  },
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "slug": {
+      "type": "string"
+    },
+    "desc": {
+      "type": "text"
+    },
+    "manga": {
+      "collection": "manga",
+      "via": "translator"
+    }
+  }
+}
