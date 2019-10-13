@@ -1,6 +1,6 @@
 {
-  "host": "localhost",
-  "port": "${process.env.PORT || 1337}",
+  "host": "imanga-server.herokuapp.com",
+  "port": "",
   "production": true,
   "proxy": {
     "enabled": false
